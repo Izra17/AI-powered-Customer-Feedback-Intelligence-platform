@@ -1,0 +1,901 @@
+review_id,order_id,customer_id,product_id,rating,review_text,review_date,verified_purchase
+REV00001,ORD00640,C1493,P007,5,Breathable material and lightweight - ideal for long office days.,2026-03-11,True
+REV00002,ORD01121,C1320,P002,2,"The insole is too thin, no arch support, my feet ache by evening.",2025-09-11,True
+REV00003,ORD00476,C1176,P001,5,"Excellent build quality, the stitching and finish look premium. Perfect for daily walks. The cushioning on the Everyday Sneakers is fantastic.",2026-03-12,True
+REV00004,ORD00999,C1213,P009,5,"My third pair from Neeman's, and the Classic Loafer might be my favourite so far.",2026-07-18,True
+REV00005,ORD00851,C1182,P007,4,"Excellent build quality, the stitching and finish look premium.",2025-12-22,True
+REV00006,ORD00050,C1065,P003,2,"The Daily Walk fit narrow, my toes felt cramped within an hour of wearing them. The Daily Walk run really small, had to return and get a bigger size.",2026-06-15,True
+REV00007,ORD00138,C1436,P006,1,"Poor durability, the stitching on the sides is already coming apart.",2026-07-26,True
+REV00008,ORD01150,C1369,P011,3,"The Cloud Step are okay, nothing special but does the job.",2026-06-10,True
+REV00009,ORD01395,C1146,P002,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-08-11,True
+REV00010,ORD00056,C1395,P004,5,Fits true to size and the arch support is great for standing all day. I was skeptical but the City Slip-On exceeded my expectations. Extremely comfortable fit.,2025-09-11,True
+REV00011,ORD00368,C1045,P008,3,"Average experience. Comfortable but the Olive Green colour looked a bit different than the photos. Good for casual use, not something I'd wear for long walks though.",2026-06-18,True
+REV00012,ORD01311,C1036,P003,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-01-07,True
+REV00013,ORD00823,C1062,P002,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Runner Pro don't.,2026-02-15,True
+REV00014,ORD00814,C1492,P012,3,"Fit is okay, needed a few days to break in before it felt normal. Good for casual use, not something I'd wear for long walks though.",2025-09-29,True
+REV00015,ORD00364,C1095,P008,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-01-09,True
+REV00016,ORD01365,C1088,P007,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-01-20,True
+REV00017,ORD00485,C1440,P003,2,"Not comfortable at all for daily wear, the sole feels too hard.",2026-02-17,True
+REV00018,ORD00129,C1196,P012,4,"The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2026-02-09,True
+REV00019,ORD00778,C1485,P004,2,"Size guide is misleading, ordered my usual size but the City Slip-On were too tight.",2025-12-28,True
+REV00020,ORD01256,C1421,P012,5,"Excellent build quality, the stitching and finish look premium.",2026-06-26,True
+REV00021,ORD00638,C1241,P001,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-06-20,True
+REV00022,ORD00928,C1267,P008,4,Loved the design and the fit was spot on. Would definitely recommend the Trail Blazer.,2026-08-23,True
+REV00023,ORD01097,C1454,P009,5,Good value for money. The Classic Loafer feel premium and well made.,2026-06-26,True
+REV00024,ORD01092,C1083,P003,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-09-29,True
+REV00025,ORD00320,C1328,P002,5,Great quality for the price. My Runner Pro still look brand new after months of use.,2026-05-15,True
+REV00026,ORD00659,C1337,P010,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-07-09,True
+REV00027,ORD00916,C1415,P009,5,Breathable material and lightweight - ideal for long office days.,2026-08-09,True
+REV00028,ORD01346,C1376,P004,4,"The City Slip-On are so soft and comfortable, feels like walking on clouds. Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2026-07-06,True
+REV00029,ORD00702,C1049,P002,5,"Loved the design and the fit was spot on. Would definitely recommend the Runner Pro. These Runner Pro are incredibly comfortable, I can wear them all day without any pain.",2026-08-22,True
+REV00030,ORD01239,C1409,P011,5,Super lightweight and stylish. Get compliments every time I wear my Cloud Step. Perfect for daily walks. The cushioning on the Cloud Step is fantastic.,2025-11-04,True
+REV00031,ORD00214,C1486,P002,4,"Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2026-08-01,True
+REV00032,ORD00580,C1486,P005,4,"The Wool Runner are so soft and comfortable, feels like walking on clouds.",2026-05-24,True
+REV00033,ORD01318,C1133,P006,5,I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit.,2026-07-28,True
+REV00034,ORD00979,C1341,P011,4,Breathable material and lightweight - ideal for long office days.,2025-10-17,True
+REV00035,ORD01188,C1300,P007,5,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2026-08-14,True
+REV00036,ORD01290,C1319,P009,4,Great quality for the price. My Classic Loafer still look brand new after months of use.,2025-11-12,True
+REV00037,ORD01314,C1209,P007,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-16,True
+REV00038,ORD00330,C1485,P009,5,"My third pair from Neeman's, and the Classic Loafer might be my favourite so far.",2026-01-04,True
+REV00039,ORD00433,C1488,P010,4,"My third pair from Neeman's, and the Flex Trainer might be my favourite so far.",2026-05-18,True
+REV00040,ORD00831,C1165,P004,4,"Great quality for the price. My City Slip-On still look brand new after months of use. Excellent build quality, the stitching and finish look premium.",2025-09-30,True
+REV00041,ORD01186,C1260,P002,4,I was skeptical but the Runner Pro exceeded my expectations. Extremely comfortable fit.,2025-10-21,True
+REV00042,ORD00487,C1249,P002,5,Fits true to size and the arch support is great for standing all day.,2026-02-16,True
+REV00043,ORD00565,C1070,P005,3,"Fit is okay, needed a few days to break in before it felt normal. The Wool Runner are okay, nothing special but does the job.",2026-03-21,True
+REV00044,ORD01377,C1352,P012,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-02-20,True
+REV00045,ORD00869,C1420,P003,5,Good value for money. The Daily Walk feel premium and well made.,2026-02-17,True
+REV00046,ORD01104,C1145,P007,4,Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal.,2025-11-03,True
+REV00047,ORD00161,C1185,P007,1,Packaging felt very basic for the price point of these shoes.,2026-02-03,True
+REV00048,ORD01238,C1194,P003,4,Good value for money. The Daily Walk feel premium and well made.,2026-01-28,True
+REV00049,ORD00466,C1419,P006,4,"I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit. Excellent build quality, the stitching and finish look premium.",2026-04-13,True
+REV00050,ORD00729,C1431,P007,2,"The Comfort Sandal feel stiff and uncomfortable, especially around the heel area.",2026-02-19,True
+REV00051,ORD00063,C1089,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far. Loved the design and the fit was spot on. Would definitely recommend the Wool Runner.",2026-06-20,True
+REV00052,ORD00592,C1377,P012,3,"Fit is okay, needed a few days to break in before it felt normal. Comfort is fine but I'm still deciding if I like the overall look.",2026-05-19,True
+REV00053,ORD00693,C1397,P009,5,Perfect for daily walks. The cushioning on the Classic Loafer is fantastic.,2026-04-20,True
+REV00054,ORD00937,C1192,P006,4,I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit.,2025-12-30,True
+REV00055,ORD00282,C1298,P001,2,"The Everyday Sneakers run really small, had to return and get a bigger size. Bought these two months ago and the sole has already worn thin.",2026-03-24,True
+REV00056,ORD01389,C1132,P003,5,"These Daily Walk are incredibly comfortable, I can wear them all day without any pain.",2026-02-27,True
+REV00057,ORD00556,C1055,P011,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-01-21,True
+REV00058,ORD00993,C1182,P012,5,"My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2025-11-18,True
+REV00059,ORD00189,C1112,P002,4,Great quality for the price. My Runner Pro still look brand new after months of use.,2026-03-16,True
+REV00060,ORD01345,C1170,P011,5,Super lightweight and stylish. Get compliments every time I wear my Cloud Step.,2026-05-07,True
+REV00061,ORD00914,C1453,P007,5,Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal.,2025-11-07,True
+REV00062,ORD01283,C1051,P008,1,The Olive Green colour started fading after just a few washes.,2025-12-04,True
+REV00063,ORD00689,C1061,P004,4,"These City Slip-On are incredibly comfortable, I can wear them all day without any pain.",2026-01-31,True
+REV00064,ORD01183,C1208,P009,5,"Excellent build quality, the stitching and finish look premium.",2025-12-05,True
+REV00065,ORD01259,C1160,P004,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-06-10,True
+REV00066,ORD00712,C1391,P002,4,Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2025-10-01,True
+REV00067,ORD00664,C1363,P005,4,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2026-07-05,True
+REV00068,ORD00203,C1039,P006,5,"My third pair from Neeman's, and the Active Knit might be my favourite so far.",2026-05-25,True
+REV00069,ORD00654,C1444,P005,3,"The Wool Runner are okay, nothing special but does the job.",2025-11-01,True
+REV00070,ORD00922,C1218,P008,5,Great quality for the price. My Trail Blazer still look brand new after months of use.,2026-07-15,True
+REV00071,ORD00867,C1468,P006,2,Sole started wearing out after only a month of regular use.,2026-02-10,True
+REV00072,ORD01287,C1103,P011,4,"My third pair from Neeman's, and the Cloud Step might be my favourite so far.",2025-10-25,True
+REV00073,ORD00024,C1276,P005,5,Fits true to size and the arch support is great for standing all day.,2026-05-28,False
+REV00074,ORD00132,C1390,P011,4,Great quality for the price. My Cloud Step still look brand new after months of use.,2026-05-23,True
+REV00075,ORD01284,C1039,P003,1,"The fabric on the Daily Walk pilled and looked worn out very quickly. Size guide is misleading, ordered my usual size but the Daily Walk were too tight.",2026-02-15,True
+REV00076,ORD00302,C1446,P001,3,Average experience. Comfortable but the Charcoal Grey colour looked a bit different than the photos.,2026-03-28,True
+REV00077,ORD00388,C1247,P002,5,"Perfect for daily walks. The cushioning on the Runner Pro is fantastic. My third pair from Neeman's, and the Runner Pro might be my favourite so far.",2025-12-02,True
+REV00078,ORD00717,C1273,P003,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-07-08,True
+REV00079,ORD00842,C1393,P006,5,Great quality for the price. My Active Knit still look brand new after months of use.,2026-05-18,True
+REV00080,ORD00469,C1132,P003,5,"These Daily Walk are incredibly comfortable, I can wear them all day without any pain.",2025-12-17,True
+REV00081,ORD01220,C1119,P005,5,Great quality for the price. My Wool Runner still look brand new after months of use.,2026-03-24,True
+REV00082,ORD00382,C1359,P012,1,The fabric on the Urban Hi-Top pilled and looked worn out very quickly.,2026-04-13,True
+REV00083,ORD00128,C1260,P008,2,"Poor durability, the stitching on the sides is already coming apart.",2025-11-04,True
+REV00084,ORD00844,C1381,P011,4,Perfect for daily walks. The cushioning on the Cloud Step is fantastic.,2026-07-06,False
+REV00085,ORD00551,C1023,P004,4,Good value for money. The City Slip-On feel premium and well made.,2026-08-23,True
+REV00086,ORD00722,C1202,P009,3,"Comfort is fine but I'm still deciding if I like the overall look. Good for casual use, not something I'd wear for long walks though.",2026-03-26,True
+REV00087,ORD00983,C1444,P007,4,"My third pair from Neeman's, and the Comfort Sandal might be my favourite so far. These Comfort Sandal are incredibly comfortable, I can wear them all day without any pain.",2026-04-20,True
+REV00088,ORD00036,C1097,P005,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-04-11,True
+REV00089,ORD00299,C1493,P003,3,"It's a fine pair of Daily Walk, does what it says, no major complaints. Average experience. Comfortable but the Stone Beige colour looked a bit different than the photos.",2026-04-24,True
+REV00090,ORD00097,C1485,P004,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-03-11,True
+REV00091,ORD01360,C1226,P012,2,The Black/White colour started fading after just a few washes.,2026-02-05,False
+REV00092,ORD01044,C1128,P005,5,Loved the design and the fit was spot on. Would definitely recommend the Wool Runner.,2026-05-02,True
+REV00093,ORD00841,C1097,P001,5,Loved the design and the fit was spot on. Would definitely recommend the Everyday Sneakers.,2025-12-20,True
+REV00094,ORD00142,C1074,P001,4,"Excellent build quality, the stitching and finish look premium. These Everyday Sneakers are incredibly comfortable, I can wear them all day without any pain.",2026-02-28,True
+REV00095,ORD00426,C1045,P007,3,Average experience. Comfortable but the Tan Brown colour looked a bit different than the photos.,2026-08-26,True
+REV00096,ORD00108,C1485,P002,5,"Fits true to size and the arch support is great for standing all day. The Runner Pro are so soft and comfortable, feels like walking on clouds.",2026-07-13,False
+REV00097,ORD01328,C1040,P004,3,"Fit is okay, needed a few days to break in before it felt normal. It's a fine pair of City Slip-On, does what it says, no major complaints.",2026-01-27,True
+REV00098,ORD00819,C1341,P011,5,I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit.,2026-06-24,True
+REV00099,ORD00591,C1358,P004,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Super lightweight and stylish. Get compliments every time I wear my City Slip-On.",2026-02-06,True
+REV00100,ORD00183,C1179,P010,5,Super lightweight and stylish. Get compliments every time I wear my Flex Trainer. Breathable material and lightweight - ideal for long office days.,2026-08-07,True
+REV00101,ORD00557,C1078,P011,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-09-18,True
+REV00102,ORD00071,C1237,P003,5,Perfect for daily walks. The cushioning on the Daily Walk is fantastic.,2026-08-24,True
+REV00103,ORD00808,C1092,P008,1,The fabric on the Trail Blazer pilled and looked worn out very quickly.,2026-08-13,True
+REV00104,ORD00687,C1293,P012,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-03-01,True
+REV00105,ORD01224,C1246,P010,5,"These Flex Trainer are incredibly comfortable, I can wear them all day without any pain.",2025-11-29,True
+REV00106,ORD01331,C1389,P001,1,"The Charcoal Grey colour looked very different from the pictures on the site. Received the wrong colour, ordered Charcoal Grey but got a completely different shade.",2025-11-09,True
+REV00107,ORD00300,C1045,P005,4,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-02-22,True
+REV00108,ORD01205,C1282,P004,4,Perfect for daily walks. The cushioning on the City Slip-On is fantastic. Loved the design and the fit was spot on. Would definitely recommend the City Slip-On.,2025-09-16,True
+REV00109,ORD01139,C1409,P005,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-11-28,True
+REV00110,ORD01163,C1301,P001,2,The Charcoal Grey colour looked very different from the pictures on the site.,2026-04-03,True
+REV00111,ORD01191,C1148,P004,2,"Delivery was delayed by over a week, no proper updates on tracking. Design looks nice in photos but feels a bit plain in person.",2026-07-06,True
+REV00112,ORD00187,C1217,P001,5,Super lightweight and stylish. Get compliments every time I wear my Everyday Sneakers.,2025-11-22,False
+REV00113,ORD00772,C1204,P006,5,"I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit. Very easy to wear, true to size, and the Forest Green colour looks amazing in person.",2025-10-18,True
+REV00114,ORD00001,C1044,P011,4,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2025-11-13,True
+REV00115,ORD00563,C1151,P002,4,Fits true to size and the arch support is great for standing all day.,2026-05-19,True
+REV00116,ORD00807,C1072,P005,5,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2026-04-26,True
+REV00117,ORD01218,C1031,P001,2,"Had to size up two sizes to get a comfortable fit on the Everyday Sneakers. The Everyday Sneakers feel stiff and uncomfortable, especially around the heel area.",2026-03-21,True
+REV00118,ORD00410,C1086,P001,4,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2026-07-02,True
+REV00119,ORD01105,C1067,P011,2,"Not comfortable at all for daily wear, the sole feels too hard.",2026-08-24,True
+REV00120,ORD01091,C1096,P006,4,I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit.,2026-05-14,True
+REV00121,ORD01372,C1092,P002,1,"The design shows the logo too prominently, not a fan of the branding placement. The fabric on the Runner Pro pilled and looked worn out very quickly.",2026-01-08,True
+REV00122,ORD00510,C1229,P010,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-08-20,True
+REV00123,ORD01302,C1105,P011,5,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2026-02-04,False
+REV00124,ORD00397,C1043,P008,5,Perfect for daily walks. The cushioning on the Trail Blazer is fantastic.,2026-07-15,True
+REV00125,ORD00144,C1341,P004,5,Fits true to size and the arch support is great for standing all day.,2026-05-25,True
+REV00126,ORD00994,C1263,P001,5,"Very easy to wear, true to size, and the Charcoal Grey colour looks amazing in person. Good value for money. The Everyday Sneakers feel premium and well made.",2026-01-29,True
+REV00127,ORD00407,C1418,P012,3,"Good for casual use, not something I'd wear for long walks though.",2026-07-30,True
+REV00128,ORD00453,C1288,P008,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-01-31,True
+REV00129,ORD01310,C1372,P007,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2025-10-19,True
+REV00130,ORD00185,C1080,P012,2,"The Urban Hi-Top run really small, had to return and get a bigger size.",2026-08-16,False
+REV00131,ORD00735,C1341,P009,5,Loved the design and the fit was spot on. Would definitely recommend the Classic Loafer.,2025-11-16,True
+REV00132,ORD01193,C1273,P007,4,Loved the design and the fit was spot on. Would definitely recommend the Comfort Sandal.,2026-03-11,True
+REV00133,ORD00923,C1428,P006,4,Super lightweight and stylish. Get compliments every time I wear my Active Knit.,2026-08-24,True
+REV00134,ORD00600,C1401,P009,5,"My third pair from Neeman's, and the Classic Loafer might be my favourite so far.",2025-12-25,True
+REV00135,ORD01263,C1195,P003,3,"The Daily Walk are okay, nothing special but does the job. Good for casual use, not something I'd wear for long walks though.",2025-12-08,True
+REV00136,ORD01325,C1220,P001,1,"Build quality is disappointing, doesn't feel like a premium product. Refund took much longer than promised after returning the Everyday Sneakers.",2025-11-02,True
+REV00137,ORD00539,C1241,P011,5,"These Cloud Step are incredibly comfortable, I can wear them all day without any pain. Bought as a gift, and the packaging plus quality really impressed my friend.",2026-03-15,True
+REV00138,ORD01071,C1351,P002,5,Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2025-11-18,True
+REV00139,ORD01130,C1098,P011,1,"Expected more cushioning, my feet hurt after just an hour of wearing the Cloud Step.",2026-02-27,True
+REV00140,ORD01123,C1241,P007,4,Great quality for the price. My Comfort Sandal still look brand new after months of use.,2025-09-13,True
+REV00141,ORD00900,C1460,P012,2,"Not comfortable at all for daily wear, the sole feels too hard. Customer support was unresponsive when I tried to exchange my order.",2025-11-21,True
+REV00142,ORD00924,C1212,P004,5,Super lightweight and stylish. Get compliments every time I wear my City Slip-On.,2025-10-13,True
+REV00143,ORD01202,C1363,P004,5,"My third pair from Neeman's, and the City Slip-On might be my favourite so far.",2026-05-02,True
+REV00144,ORD01361,C1185,P012,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Urban Hi-Top don't.,2026-05-15,False
+REV00145,ORD00552,C1172,P005,2,"Poor durability, the stitching on the sides is already coming apart. Sizing is inconsistent - my other Neeman's shoes fit fine but these Wool Runner don't.",2026-02-07,False
+REV00146,ORD00584,C1130,P002,5,Super lightweight and stylish. Get compliments every time I wear my Runner Pro.,2025-09-26,True
+REV00147,ORD01015,C1437,P008,3,"Good for casual use, not something I'd wear for long walks though.",2026-07-18,True
+REV00148,ORD00550,C1127,P009,5,"The Classic Loafer are so soft and comfortable, feels like walking on clouds.",2025-12-26,True
+REV00149,ORD00856,C1179,P006,2,The fabric on the Active Knit pilled and looked worn out very quickly.,2026-04-29,True
+REV00150,ORD00209,C1285,P007,5,"Excellent build quality, the stitching and finish look premium.",2026-03-11,True
+REV00151,ORD00634,C1245,P005,4,"Very easy to wear, true to size, and the Heather Grey colour looks amazing in person.",2026-03-11,True
+REV00152,ORD00074,C1140,P004,5,I was skeptical but the City Slip-On exceeded my expectations. Extremely comfortable fit.,2026-08-14,False
+REV00153,ORD00443,C1085,P001,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2025-12-09,True
+REV00154,ORD00799,C1098,P010,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Excellent build quality, the stitching and finish look premium.",2026-05-06,True
+REV00155,ORD01164,C1225,P009,2,Design looks nice in photos but feels a bit plain in person.,2026-05-27,True
+REV00156,ORD00446,C1290,P008,5,"Excellent build quality, the stitching and finish look premium.",2026-04-30,True
+REV00157,ORD01082,C1498,P008,5,"My third pair from Neeman's, and the Trail Blazer might be my favourite so far.",2025-10-19,True
+REV00158,ORD01359,C1435,P004,5,Great quality for the price. My City Slip-On still look brand new after months of use.,2026-08-26,True
+REV00159,ORD00708,C1363,P002,2,"The Runner Pro run really small, had to return and get a bigger size. The material quality of the Runner Pro feels cheap compared to the price.",2025-10-31,True
+REV00160,ORD00748,C1091,P002,1,"Return pickup got rescheduled three times, very inconvenient experience.",2025-10-30,True
+REV00161,ORD00298,C1475,P008,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-10-29,True
+REV00162,ORD00767,C1418,P012,5,"These Urban Hi-Top are incredibly comfortable, I can wear them all day without any pain.",2026-07-16,False
+REV00163,ORD00505,C1115,P003,1,"Build quality is disappointing, doesn't feel like a premium product.",2026-03-26,True
+REV00164,ORD01228,C1427,P010,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-08-22,True
+REV00165,ORD00522,C1081,P007,1,"The insole is too thin, no arch support, my feet ache by evening.",2026-05-26,True
+REV00166,ORD00077,C1438,P008,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Trail Blazer don't. Packaging felt very basic for the price point of these shoes.,2026-04-25,True
+REV00167,ORD01146,C1436,P004,1,"Build quality is disappointing, doesn't feel like a premium product. The material quality of the City Slip-On feels cheap compared to the price.",2025-11-24,True
+REV00168,ORD00731,C1127,P003,3,"It's a fine pair of Daily Walk, does what it says, no major complaints.",2026-01-01,True
+REV00169,ORD00356,C1498,P002,1,Sizing is inconsistent - my other Neeman's shoes fit fine but these Runner Pro don't.,2026-05-25,True
+REV00170,ORD00065,C1345,P005,4,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2025-12-22,True
+REV00171,ORD01152,C1403,P007,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Breathable material and lightweight - ideal for long office days.",2026-04-23,True
+REV00172,ORD00389,C1414,P006,3,"The Active Knit are okay, nothing special but does the job.",2026-04-28,True
+REV00173,ORD01080,C1074,P005,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-08-14,True
+REV00174,ORD00059,C1197,P010,4,Good value for money. The Flex Trainer feel premium and well made.,2026-04-28,True
+REV00175,ORD00919,C1241,P012,4,"The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2026-06-27,True
+REV00176,ORD01279,C1327,P002,4,Super lightweight and stylish. Get compliments every time I wear my Runner Pro.,2026-05-23,True
+REV00177,ORD00670,C1109,P011,5,"Excellent build quality, the stitching and finish look premium.",2025-11-08,True
+REV00178,ORD00559,C1144,P010,5,I was skeptical but the Flex Trainer exceeded my expectations. Extremely comfortable fit.,2026-07-20,True
+REV00179,ORD00523,C1448,P002,3,"Good for casual use, not something I'd wear for long walks though.",2026-02-25,True
+REV00180,ORD01033,C1182,P006,5,"Excellent build quality, the stitching and finish look premium. Breathable material and lightweight - ideal for long office days.",2026-07-17,True
+REV00181,ORD00126,C1311,P005,1,"Value for money isn't great, quality doesn't quite match the price tag. Design looks nice in photos but feels a bit plain in person.",2026-04-10,True
+REV00182,ORD01002,C1113,P003,5,Fits true to size and the arch support is great for standing all day.,2026-08-23,True
+REV00183,ORD00502,C1218,P002,1,Design looks nice in photos but feels a bit plain in person. Packaging felt very basic for the price point of these shoes.,2025-09-24,True
+REV00184,ORD00422,C1042,P011,1,"Late delivery ruined the surprise, had ordered these for an event.",2026-02-14,True
+REV00185,ORD00490,C1494,P012,4,Great quality for the price. My Urban Hi-Top still look brand new after months of use.,2025-09-19,True
+REV00186,ORD00022,C1040,P005,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-01-14,True
+REV00187,ORD00150,C1225,P011,1,Sizing is inconsistent - my other Neeman's shoes fit fine but these Cloud Step don't.,2026-08-08,True
+REV00188,ORD00579,C1326,P007,4,Loved the design and the fit was spot on. Would definitely recommend the Comfort Sandal.,2025-09-20,True
+REV00189,ORD01288,C1172,P004,4,"Excellent build quality, the stitching and finish look premium.",2026-03-16,True
+REV00190,ORD00625,C1293,P012,1,"Not comfortable at all for daily wear, the sole feels too hard. The Black/White colour looked very different from the pictures on the site.",2026-08-18,True
+REV00191,ORD00802,C1311,P012,2,"Build quality is disappointing, doesn't feel like a premium product.",2026-03-05,True
+REV00192,ORD00834,C1456,P001,5,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2026-08-13,True
+REV00193,ORD00479,C1485,P003,2,Stitching came undone within two weeks of regular use.,2025-10-27,True
+REV00194,ORD00272,C1234,P005,2,The fabric on the Wool Runner pilled and looked worn out very quickly.,2026-06-01,True
+REV00195,ORD01232,C1114,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2025-10-14,True
+REV00196,ORD00266,C1212,P011,5,Breathable material and lightweight - ideal for long office days.,2026-03-26,False
+REV00197,ORD00210,C1076,P011,3,"It's a fine pair of Cloud Step, does what it says, no major complaints.",2026-03-29,True
+REV00198,ORD00025,C1460,P012,4,Breathable material and lightweight - ideal for long office days.,2026-08-25,True
+REV00199,ORD00054,C1019,P011,5,Super lightweight and stylish. Get compliments every time I wear my Cloud Step.,2026-01-21,True
+REV00200,ORD01115,C1232,P003,5,"Very easy to wear, true to size, and the Stone Beige colour looks amazing in person.",2026-03-24,True
+REV00201,ORD01168,C1190,P006,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. Comfort is fine but I'm still deciding if I like the overall look.",2026-07-05,True
+REV00202,ORD00752,C1420,P001,4,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2026-03-19,True
+REV00203,ORD01321,C1272,P002,3,"Average experience. Comfortable but the Jet Black colour looked a bit different than the photos. Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-06-10,True
+REV00204,ORD01013,C1285,P006,5,"Excellent build quality, the stitching and finish look premium.",2025-11-12,True
+REV00205,ORD00641,C1289,P010,5,Super lightweight and stylish. Get compliments every time I wear my Flex Trainer.,2026-08-22,True
+REV00206,ORD00421,C1067,P003,4,"Very easy to wear, true to size, and the Stone Beige colour looks amazing in person.",2026-04-21,True
+REV00207,ORD00213,C1269,P007,5,Breathable material and lightweight - ideal for long office days. Loved the design and the fit was spot on. Would definitely recommend the Comfort Sandal.,2026-08-13,True
+REV00208,ORD01204,C1310,P006,2,The material quality of the Active Knit feels cheap compared to the price.,2025-10-09,True
+REV00209,ORD00857,C1207,P008,3,"Good for casual use, not something I'd wear for long walks though.",2026-05-08,True
+REV00210,ORD00736,C1141,P004,5,"Excellent build quality, the stitching and finish look premium. Breathable material and lightweight - ideal for long office days.",2025-10-31,True
+REV00211,ORD01227,C1265,P009,1,The material quality of the Classic Loafer feels cheap compared to the price.,2025-11-25,True
+REV00212,ORD00570,C1456,P006,3,"It's a fine pair of Active Knit, does what it says, no major complaints. Fit is okay, needed a few days to break in before it felt normal.",2026-07-29,True
+REV00213,ORD01182,C1050,P009,5,Fits true to size and the arch support is great for standing all day.,2026-02-19,True
+REV00214,ORD01317,C1471,P012,4,Perfect for daily walks. The cushioning on the Urban Hi-Top is fantastic.,2025-09-27,True
+REV00215,ORD00027,C1034,P010,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-06-20,True
+REV00216,ORD00062,C1356,P011,5,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2025-11-26,True
+REV00217,ORD00357,C1473,P002,5,"Great quality for the price. My Runner Pro still look brand new after months of use. Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2026-05-29,True
+REV00218,ORD01187,C1014,P009,1,Refund took much longer than promised after returning the Classic Loafer.,2026-03-17,True
+REV00219,ORD00667,C1386,P005,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-01-26,True
+REV00220,ORD00616,C1217,P011,4,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2025-10-12,True
+REV00221,ORD00636,C1320,P005,4,"My third pair from Neeman's, and the Wool Runner might be my favourite so far. Breathable material and lightweight - ideal for long office days.",2025-11-18,True
+REV00222,ORD01106,C1453,P006,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-08-24,True
+REV00223,ORD00343,C1100,P003,4,"The Daily Walk are so soft and comfortable, feels like walking on clouds.",2025-09-28,True
+REV00224,ORD01323,C1383,P002,3,"The Runner Pro are okay, nothing special but does the job.",2025-11-06,True
+REV00225,ORD00843,C1022,P002,1,"Size guide is misleading, ordered my usual size but the Runner Pro were too tight. Expected more for this price point, similar shoes elsewhere are better value.",2026-05-22,True
+REV00226,ORD00709,C1382,P005,3,"Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos. It's a fine pair of Wool Runner, does what it says, no major complaints.",2026-07-22,True
+REV00227,ORD00817,C1040,P001,5,Perfect for daily walks. The cushioning on the Everyday Sneakers is fantastic.,2026-07-14,True
+REV00228,ORD01348,C1479,P005,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2025-10-23,True
+REV00229,ORD00525,C1304,P008,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-05-21,True
+REV00230,ORD01054,C1032,P001,5,Perfect for daily walks. The cushioning on the Everyday Sneakers is fantastic. Breathable material and lightweight - ideal for long office days.,2025-10-02,True
+REV00231,ORD00810,C1332,P012,3,Comfort is fine but I'm still deciding if I like the overall look.,2025-12-24,True
+REV00232,ORD00824,C1356,P012,5,"Very easy to wear, true to size, and the Black/White colour looks amazing in person.",2026-02-04,False
+REV00233,ORD01134,C1310,P004,5,Great quality for the price. My City Slip-On still look brand new after months of use.,2026-02-07,True
+REV00234,ORD01035,C1010,P005,5,Great quality for the price. My Wool Runner still look brand new after months of use.,2026-07-02,True
+REV00235,ORD00617,C1036,P002,5,"Excellent build quality, the stitching and finish look premium.",2026-01-01,True
+REV00236,ORD00488,C1314,P011,5,I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit.,2026-03-01,True
+REV00237,ORD01286,C1366,P008,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-08-25,True
+REV00238,ORD00803,C1328,P012,4,"The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2026-03-25,True
+REV00239,ORD01018,C1379,P003,5,Great quality for the price. My Daily Walk still look brand new after months of use.,2026-03-30,True
+REV00240,ORD00573,C1246,P004,3,"It's a fine pair of City Slip-On, does what it says, no major complaints.",2026-08-23,True
+REV00241,ORD00952,C1218,P011,2,Stitching came undone within two weeks of regular use.,2025-10-16,True
+REV00242,ORD00353,C1289,P009,5,"These Classic Loafer are incredibly comfortable, I can wear them all day without any pain.",2026-01-13,True
+REV00243,ORD00504,C1198,P002,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-02-19,True
+REV00244,ORD01252,C1461,P003,3,"The Daily Walk are okay, nothing special but does the job.",2026-04-27,True
+REV00245,ORD00677,C1204,P001,4,"My third pair from Neeman's, and the Everyday Sneakers might be my favourite so far.",2026-03-01,False
+REV00246,ORD00261,C1482,P005,2,The Wool Runner developed cracks in the sole much sooner than expected.,2025-11-22,True
+REV00247,ORD01266,C1493,P010,3,"Good for casual use, not something I'd wear for long walks though. Average experience. Comfortable but the White colour looked a bit different than the photos.",2026-05-10,True
+REV00248,ORD00222,C1283,P003,5,Super lightweight and stylish. Get compliments every time I wear my Daily Walk.,2026-01-10,True
+REV00249,ORD00354,C1388,P004,1,"The City Slip-On fit narrow, my toes felt cramped within an hour of wearing them.",2026-08-24,True
+REV00250,ORD01172,C1310,P008,3,"Good for casual use, not something I'd wear for long walks though.",2026-03-05,True
+REV00251,ORD01010,C1050,P004,2,The Navy Blue colour looked very different from the pictures on the site.,2026-02-14,True
+REV00252,ORD00627,C1113,P012,3,"It's a fine pair of Urban Hi-Top, does what it says, no major complaints.",2026-02-22,True
+REV00253,ORD00008,C1427,P004,3,Average experience. Comfortable but the Navy Blue colour looked a bit different than the photos.,2026-01-27,True
+REV00254,ORD00859,C1246,P009,5,Good value for money. The Classic Loafer feel premium and well made.,2026-05-09,True
+REV00255,ORD00626,C1107,P010,5,Breathable material and lightweight - ideal for long office days.,2026-03-28,True
+REV00256,ORD01275,C1337,P003,3,"Fit is okay, needed a few days to break in before it felt normal. Decent shoes for the price, though I expected slightly better cushioning.",2026-04-19,True
+REV00257,ORD00777,C1473,P011,2,"Delivery was delayed by over a week, no proper updates on tracking.",2025-09-23,True
+REV00258,ORD00134,C1195,P004,4,"Bought as a gift, and the packaging plus quality really impressed my friend. Fits true to size and the arch support is great for standing all day.",2026-03-29,True
+REV00259,ORD00225,C1163,P001,1,"The Everyday Sneakers arrived quite late, would have appreciated better communication.",2026-03-25,True
+REV00260,ORD00684,C1132,P008,1,The Trail Blazer developed cracks in the sole much sooner than expected. Order took much longer than the estimated delivery window.,2026-08-24,True
+REV00261,ORD01142,C1445,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-08-24,True
+REV00262,ORD00148,C1025,P011,2,"Delivery was delayed by over a week, no proper updates on tracking.",2026-04-22,True
+REV00263,ORD00314,C1057,P002,5,Good value for money. The Runner Pro feel premium and well made.,2026-06-15,True
+REV00264,ORD01147,C1264,P009,4,Breathable material and lightweight - ideal for long office days.,2026-08-22,True
+REV00265,ORD01230,C1307,P006,3,"It's a fine pair of Active Knit, does what it says, no major complaints.",2025-12-18,True
+REV00266,ORD00901,C1327,P011,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. My third pair from Neeman's, and the Cloud Step might be my favourite so far.",2026-07-10,True
+REV00267,ORD00004,C1079,P005,4,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2025-09-27,True
+REV00268,ORD01161,C1298,P012,5,Great quality for the price. My Urban Hi-Top still look brand new after months of use.,2026-06-19,True
+REV00269,ORD00384,C1495,P011,5,Perfect for daily walks. The cushioning on the Cloud Step is fantastic.,2026-07-20,True
+REV00270,ORD00646,C1264,P007,5,Loved the design and the fit was spot on. Would definitely recommend the Comfort Sandal.,2026-03-24,True
+REV00271,ORD00192,C1412,P009,5,"The Classic Loafer are so soft and comfortable, feels like walking on clouds.",2026-08-24,True
+REV00272,ORD01274,C1435,P008,4,"Excellent build quality, the stitching and finish look premium.",2026-03-03,True
+REV00273,ORD01004,C1220,P012,5,"My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far. Breathable material and lightweight - ideal for long office days.",2025-11-02,True
+REV00274,ORD00110,C1219,P009,1,"Value for money isn't great, quality doesn't quite match the price tag.",2026-04-04,True
+REV00275,ORD01025,C1133,P002,4,"Excellent build quality, the stitching and finish look premium.",2026-08-14,True
+REV00276,ORD01244,C1085,P012,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-10-19,True
+REV00277,ORD00884,C1026,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2025-10-08,True
+REV00278,ORD00499,C1310,P002,5,"Good value for money. The Runner Pro feel premium and well made. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-03-03,True
+REV00279,ORD00671,C1199,P009,3,"Fit is okay, needed a few days to break in before it felt normal. Decent shoes for the price, though I expected slightly better cushioning.",2026-03-25,True
+REV00280,ORD00355,C1087,P001,3,"It's a fine pair of Everyday Sneakers, does what it says, no major complaints.",2025-11-06,True
+REV00281,ORD00675,C1401,P011,1,"The Cloud Step feel stiff and uncomfortable, especially around the heel area.",2026-06-06,False
+REV00282,ORD00727,C1372,P001,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-06-10,True
+REV00283,ORD01383,C1126,P003,5,Super lightweight and stylish. Get compliments every time I wear my Daily Walk.,2026-04-17,False
+REV00284,ORD00240,C1354,P007,4,Great quality for the price. My Comfort Sandal still look brand new after months of use.,2026-05-01,True
+REV00285,ORD00053,C1410,P004,2,"Delivery partner mishandled the package, box arrived damaged.",2025-12-11,True
+REV00286,ORD00691,C1093,P008,1,The material quality of the Trail Blazer feels cheap compared to the price.,2026-03-13,True
+REV00287,ORD00946,C1393,P001,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Good value for money. The Everyday Sneakers feel premium and well made.",2026-04-14,True
+REV00288,ORD00503,C1242,P002,5,Fits true to size and the arch support is great for standing all day.,2026-02-17,True
+REV00289,ORD01387,C1138,P005,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-07-20,True
+REV00290,ORD00697,C1205,P006,5,Breathable material and lightweight - ideal for long office days.,2025-12-19,True
+REV00291,ORD00637,C1108,P002,1,"The Runner Pro run really small, had to return and get a bigger size.",2025-10-22,True
+REV00292,ORD00507,C1198,P002,5,Breathable material and lightweight - ideal for long office days.,2026-08-23,True
+REV00293,ORD01128,C1161,P008,4,Super lightweight and stylish. Get compliments every time I wear my Trail Blazer.,2026-01-07,True
+REV00294,ORD00052,C1079,P011,1,"The Cloud Step run really small, had to return and get a bigger size.",2025-11-10,True
+REV00295,ORD01145,C1215,P005,4,"The Wool Runner are so soft and comfortable, feels like walking on clouds.",2026-03-26,True
+REV00296,ORD00318,C1111,P005,5,Loved the design and the fit was spot on. Would definitely recommend the Wool Runner.,2025-09-26,True
+REV00297,ORD00905,C1054,P004,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-07-30,True
+REV00298,ORD00208,C1198,P009,5,Good value for money. The Classic Loafer feel premium and well made.,2026-07-20,True
+REV00299,ORD00481,C1288,P006,5,"These Active Knit are incredibly comfortable, I can wear them all day without any pain.",2026-08-21,True
+REV00300,ORD00331,C1329,P010,5,"The Flex Trainer are so soft and comfortable, feels like walking on clouds.",2025-12-01,True
+REV00301,ORD01198,C1458,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2025-09-21,True
+REV00302,ORD00301,C1090,P011,5,"My third pair from Neeman's, and the Cloud Step might be my favourite so far. I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit.",2026-07-03,True
+REV00303,ORD00721,C1003,P008,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Breathable material and lightweight - ideal for long office days.",2026-05-27,False
+REV00304,ORD00964,C1446,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2026-08-16,True
+REV00305,ORD00972,C1154,P003,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-04-02,True
+REV00306,ORD01083,C1048,P012,5,"My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2026-03-27,True
+REV00307,ORD01247,C1103,P010,1,"Delivery was delayed by over a week, no proper updates on tracking.",2026-04-03,True
+REV00308,ORD00371,C1247,P005,4,"The Wool Runner are so soft and comfortable, feels like walking on clouds.",2026-02-23,True
+REV00309,ORD00184,C1072,P001,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Very easy to wear, true to size, and the Charcoal Grey colour looks amazing in person.",2025-12-06,True
+REV00310,ORD01316,C1188,P012,5,Perfect for daily walks. The cushioning on the Urban Hi-Top is fantastic.,2026-02-28,False
+REV00311,ORD00231,C1292,P009,5,"Very easy to wear, true to size, and the Espresso Brown colour looks amazing in person.",2026-06-28,True
+REV00312,ORD00846,C1139,P005,4,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-06-18,True
+REV00313,ORD00695,C1095,P001,4,Loved the design and the fit was spot on. Would definitely recommend the Everyday Sneakers. I was skeptical but the Everyday Sneakers exceeded my expectations. Extremely comfortable fit.,2025-09-17,True
+REV00314,ORD00998,C1096,P003,1,"Build quality is disappointing, doesn't feel like a premium product.",2025-10-26,True
+REV00315,ORD00223,C1075,P002,5,Fits true to size and the arch support is great for standing all day. Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2026-08-21,True
+REV00316,ORD00529,C1412,P011,4,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2025-09-13,True
+REV00317,ORD00247,C1190,P011,5,Loved the design and the fit was spot on. Would definitely recommend the Cloud Step.,2026-03-25,True
+REV00318,ORD00373,C1225,P004,2,Sole started wearing out after only a month of regular use.,2026-05-05,True
+REV00319,ORD00069,C1075,P002,1,"Had a difficult time initiating the return for my Runner Pro, support was slow to respond.",2026-05-05,True
+REV00320,ORD00273,C1274,P004,1,Packaging felt very basic for the price point of these shoes.,2025-12-25,True
+REV00321,ORD00170,C1015,P001,2,The Charcoal Grey colour started fading after just a few washes.,2026-08-16,True
+REV00322,ORD00864,C1046,P010,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-03-29,False
+REV00323,ORD00784,C1260,P011,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-03-25,True
+REV00324,ORD00853,C1350,P002,4,Great quality for the price. My Runner Pro still look brand new after months of use. Perfect for daily walks. The cushioning on the Runner Pro is fantastic.,2026-05-13,True
+REV00325,ORD01355,C1414,P012,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-04-06,True
+REV00326,ORD00768,C1308,P007,1,Bought these two months ago and the sole has already worn thin.,2026-04-19,True
+REV00327,ORD00315,C1226,P001,4,Breathable material and lightweight - ideal for long office days.,2026-06-27,True
+REV00328,ORD01200,C1416,P009,2,Stitching came undone within two weeks of regular use.,2025-09-22,True
+REV00329,ORD00117,C1221,P012,4,"My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2026-04-14,True
+REV00330,ORD01254,C1154,P009,1,"Expected more cushioning, my feet hurt after just an hour of wearing the Classic Loafer.",2025-12-16,False
+REV00331,ORD00120,C1092,P003,4,Super lightweight and stylish. Get compliments every time I wear my Daily Walk. Loved the design and the fit was spot on. Would definitely recommend the Daily Walk.,2026-05-04,True
+REV00332,ORD00997,C1466,P003,3,"It's a fine pair of Daily Walk, does what it says, no major complaints.",2025-09-18,False
+REV00333,ORD00898,C1128,P002,5,"Excellent build quality, the stitching and finish look premium.",2026-05-29,False
+REV00334,ORD00789,C1373,P001,4,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds. These Everyday Sneakers are incredibly comfortable, I can wear them all day without any pain.",2026-06-25,True
+REV00335,ORD01221,C1317,P010,4,Loved the design and the fit was spot on. Would definitely recommend the Flex Trainer. Good value for money. The Flex Trainer feel premium and well made.,2026-08-21,False
+REV00336,ORD00755,C1392,P004,2,"The City Slip-On fit narrow, my toes felt cramped within an hour of wearing them.",2026-06-22,True
+REV00337,ORD00569,C1194,P001,2,Had to size up two sizes to get a comfortable fit on the Everyday Sneakers.,2025-12-10,True
+REV00338,ORD01366,C1334,P011,1,"Delivery partner mishandled the package, box arrived damaged. The Sky Blue colour started fading after just a few washes.",2026-04-05,True
+REV00339,ORD01111,C1218,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2026-02-06,True
+REV00340,ORD00741,C1020,P011,1,"The Cloud Step feel stiff and uncomfortable, especially around the heel area.",2026-03-11,True
+REV00341,ORD00385,C1297,P006,3,"It's a fine pair of Active Knit, does what it says, no major complaints.",2026-05-04,True
+REV00342,ORD01087,C1045,P010,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-12-11,True
+REV00343,ORD00435,C1349,P001,5,Great quality for the price. My Everyday Sneakers still look brand new after months of use.,2026-03-30,True
+REV00344,ORD00344,C1281,P006,5,"The Active Knit are so soft and comfortable, feels like walking on clouds.",2026-01-05,True
+REV00345,ORD01294,C1291,P008,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-11-07,True
+REV00346,ORD00527,C1494,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2026-08-22,True
+REV00347,ORD01329,C1248,P005,4,"These Wool Runner are incredibly comfortable, I can wear them all day without any pain.",2025-10-21,True
+REV00348,ORD01179,C1125,P001,5,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2025-11-12,True
+REV00349,ORD00526,C1083,P008,5,I was skeptical but the Trail Blazer exceeded my expectations. Extremely comfortable fit.,2025-12-03,True
+REV00350,ORD00776,C1304,P002,4,Fits true to size and the arch support is great for standing all day.,2026-08-23,True
+REV00351,ORD00718,C1226,P005,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-03-12,True
+REV00352,ORD01189,C1325,P011,5,"Very easy to wear, true to size, and the Sky Blue colour looks amazing in person.",2025-11-04,True
+REV00353,ORD00513,C1006,P002,5,I was skeptical but the Runner Pro exceeded my expectations. Extremely comfortable fit.,2025-10-17,True
+REV00354,ORD00269,C1442,P008,4,Fits true to size and the arch support is great for standing all day.,2025-11-23,True
+REV00355,ORD00740,C1285,P011,3,"The Cloud Step are okay, nothing special but does the job.",2025-12-03,True
+REV00356,ORD00248,C1160,P008,5,Perfect for daily walks. The cushioning on the Trail Blazer is fantastic.,2025-10-13,True
+REV00357,ORD00084,C1009,P007,1,The fabric on the Comfort Sandal pilled and looked worn out very quickly.,2026-01-23,True
+REV00358,ORD01114,C1402,P009,3,"It's a fine pair of Classic Loafer, does what it says, no major complaints. Fit is okay, needed a few days to break in before it felt normal.",2025-09-29,True
+REV00359,ORD01255,C1366,P012,2,The material quality of the Urban Hi-Top feels cheap compared to the price.,2026-08-24,True
+REV00360,ORD00360,C1199,P005,1,"Sole started wearing out after only a month of regular use. Wrong size was shipped, had to go through the hassle of exchanging it.",2025-11-24,True
+REV00361,ORD00564,C1020,P005,4,I was skeptical but the Wool Runner exceeded my expectations. Extremely comfortable fit. Loved the design and the fit was spot on. Would definitely recommend the Wool Runner.,2026-04-25,True
+REV00362,ORD00757,C1226,P003,5,Super lightweight and stylish. Get compliments every time I wear my Daily Walk. Loved the design and the fit was spot on. Would definitely recommend the Daily Walk.,2025-12-05,True
+REV00363,ORD00335,C1097,P005,2,"Return process was frustrating, took over two weeks to get my refund.",2025-12-23,True
+REV00364,ORD00316,C1228,P002,5,"Excellent build quality, the stitching and finish look premium.",2026-08-22,True
+REV00365,ORD00805,C1391,P001,5,Great quality for the price. My Everyday Sneakers still look brand new after months of use.,2026-01-20,True
+REV00366,ORD00041,C1330,P006,3,"It's a fine pair of Active Knit, does what it says, no major complaints.",2026-01-18,True
+REV00367,ORD00406,C1052,P009,5,Loved the design and the fit was spot on. Would definitely recommend the Classic Loafer.,2025-10-11,True
+REV00368,ORD00325,C1338,P004,5,"Loved the design and the fit was spot on. Would definitely recommend the City Slip-On. Excellent build quality, the stitching and finish look premium.",2026-05-10,True
+REV00369,ORD00554,C1108,P007,5,I was skeptical but the Comfort Sandal exceeded my expectations. Extremely comfortable fit.,2025-09-27,True
+REV00370,ORD00007,C1338,P005,3,"It's a fine pair of Wool Runner, does what it says, no major complaints. Comfort is fine but I'm still deciding if I like the overall look.",2026-08-13,True
+REV00371,ORD00623,C1200,P002,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-01-27,True
+REV00372,ORD00310,C1351,P001,4,"Very easy to wear, true to size, and the Charcoal Grey colour looks amazing in person.",2026-08-11,True
+REV00373,ORD00375,C1376,P010,4,I was skeptical but the Flex Trainer exceeded my expectations. Extremely comfortable fit.,2026-08-25,True
+REV00374,ORD00986,C1421,P003,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-01-03,True
+REV00375,ORD00236,C1069,P011,1,The Sky Blue colour started fading after just a few washes.,2025-12-09,True
+REV00376,ORD00848,C1411,P006,5,"My third pair from Neeman's, and the Active Knit might be my favourite so far.",2026-06-25,True
+REV00377,ORD01299,C1151,P002,5,I was skeptical but the Runner Pro exceeded my expectations. Extremely comfortable fit. Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2026-02-18,True
+REV00378,ORD00372,C1315,P002,5,"Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2026-03-25,True
+REV00379,ORD01264,C1291,P004,4,Good value for money. The City Slip-On feel premium and well made.,2026-03-27,True
+REV00380,ORD00465,C1127,P012,5,Breathable material and lightweight - ideal for long office days.,2026-08-22,True
+REV00381,ORD00642,C1118,P011,4,Loved the design and the fit was spot on. Would definitely recommend the Cloud Step.,2025-12-05,False
+REV00382,ORD00448,C1125,P012,1,Bought these two months ago and the sole has already worn thin.,2026-06-12,True
+REV00383,ORD00493,C1005,P003,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-07-24,True
+REV00384,ORD00111,C1320,P005,4,"Great quality for the price. My Wool Runner still look brand new after months of use. Excellent build quality, the stitching and finish look premium.",2026-07-08,True
+REV00385,ORD01165,C1066,P012,1,"The fabric on the Urban Hi-Top pilled and looked worn out very quickly. Poor durability, the stitching on the sides is already coming apart.",2026-05-13,True
+REV00386,ORD00833,C1408,P001,3,Comfort is fine but I'm still deciding if I like the overall look.,2025-12-05,True
+REV00387,ORD00408,C1301,P002,3,"Good for casual use, not something I'd wear for long walks though.",2026-05-12,True
+REV00388,ORD01367,C1260,P008,3,"It's a fine pair of Trail Blazer, does what it says, no major complaints. Fit is okay, needed a few days to break in before it felt normal.",2026-03-31,True
+REV00389,ORD01350,C1186,P010,1,Order took much longer than the estimated delivery window.,2026-06-10,True
+REV00390,ORD00494,C1402,P005,5,Good value for money. The Wool Runner feel premium and well made.,2025-12-26,True
+REV00391,ORD00439,C1324,P002,5,I was skeptical but the Runner Pro exceeded my expectations. Extremely comfortable fit.,2026-02-20,True
+REV00392,ORD01032,C1187,P006,5,"Excellent build quality, the stitching and finish look premium.",2025-10-10,True
+REV00393,ORD00845,C1146,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2025-09-13,True
+REV00394,ORD00495,C1279,P002,2,"Delivery was delayed by over a week, no proper updates on tracking.",2025-09-13,True
+REV00395,ORD00440,C1122,P011,4,"Excellent build quality, the stitching and finish look premium.",2026-08-25,True
+REV00396,ORD00286,C1104,P002,1,Sizing is inconsistent - my other Neeman's shoes fit fine but these Runner Pro don't.,2025-12-27,True
+REV00397,ORD00227,C1009,P008,4,Fits true to size and the arch support is great for standing all day.,2026-08-21,True
+REV00398,ORD00885,C1143,P011,1,"Delivery was delayed by over a week, no proper updates on tracking.",2026-02-21,True
+REV00399,ORD01373,C1082,P001,2,"Poor durability, the stitching on the sides is already coming apart.",2026-06-29,True
+REV00400,ORD00838,C1442,P003,1,"Design looks nice in photos but feels a bit plain in person. The Daily Walk arrived quite late, would have appreciated better communication.",2026-07-01,True
+REV00401,ORD00043,C1035,P010,5,"Excellent build quality, the stitching and finish look premium.",2025-10-19,True
+REV00402,ORD00929,C1255,P008,1,The Trail Blazer developed cracks in the sole much sooner than expected.,2026-04-08,True
+REV00403,ORD00967,C1075,P005,1,"Delivery was delayed by over a week, no proper updates on tracking.",2025-12-02,True
+REV00404,ORD00037,C1299,P005,1,"Size guide is misleading, ordered my usual size but the Wool Runner were too tight.",2025-12-30,True
+REV00405,ORD00558,C1138,P004,5,Fits true to size and the arch support is great for standing all day.,2026-08-22,True
+REV00406,ORD00995,C1154,P004,1,"Size guide is misleading, ordered my usual size but the City Slip-On were too tight.",2026-08-09,True
+REV00407,ORD00099,C1124,P008,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. Decent shoes for the price, though I expected slightly better cushioning.",2026-08-06,True
+REV00408,ORD00345,C1086,P011,5,Breathable material and lightweight - ideal for long office days.,2026-08-24,True
+REV00409,ORD00140,C1046,P002,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-01-09,False
+REV00410,ORD01222,C1168,P002,1,Wish there were more colour options available for the Runner Pro.,2026-03-05,True
+REV00411,ORD01352,C1145,P005,3,"The Wool Runner are okay, nothing special but does the job.",2026-01-02,True
+REV00412,ORD01099,C1337,P006,3,"The Active Knit are okay, nothing special but does the job. It's a fine pair of Active Knit, does what it says, no major complaints.",2026-07-10,True
+REV00413,ORD01301,C1212,P008,5,Great quality for the price. My Trail Blazer still look brand new after months of use.,2026-03-02,True
+REV00414,ORD00649,C1169,P011,1,"Return pickup got rescheduled three times, very inconvenient experience.",2026-01-28,True
+REV00415,ORD00468,C1113,P003,4,Great quality for the price. My Daily Walk still look brand new after months of use.,2025-11-15,True
+REV00416,ORD01180,C1164,P012,2,"Delivery was delayed by over a week, no proper updates on tracking.",2026-06-25,True
+REV00417,ORD00455,C1449,P004,2,"Delivery was delayed by over a week, no proper updates on tracking.",2026-06-25,True
+REV00418,ORD00256,C1037,P008,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-30,True
+REV00419,ORD00597,C1384,P001,3,"Average experience. Comfortable but the Charcoal Grey colour looked a bit different than the photos. Good for casual use, not something I'd wear for long walks though.",2026-05-31,True
+REV00420,ORD00678,C1007,P006,4,Super lightweight and stylish. Get compliments every time I wear my Active Knit.,2026-08-07,True
+REV00421,ORD01368,C1381,P004,2,"The City Slip-On fit narrow, my toes felt cramped within an hour of wearing them. Expected more for this price point, similar shoes elsewhere are better value.",2025-09-26,True
+REV00422,ORD01155,C1266,P012,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2025-11-15,True
+REV00423,ORD00033,C1276,P008,4,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2026-01-17,True
+REV00424,ORD00207,C1268,P012,4,"Very easy to wear, true to size, and the Black/White colour looks amazing in person.",2025-10-17,True
+REV00425,ORD00792,C1268,P010,1,"Size guide is misleading, ordered my usual size but the Flex Trainer were too tight.",2026-06-22,True
+REV00426,ORD00327,C1224,P001,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-04-28,True
+REV00427,ORD01050,C1207,P005,5,Great quality for the price. My Wool Runner still look brand new after months of use.,2026-08-15,True
+REV00428,ORD00308,C1385,P006,2,"Stitching came undone within two weeks of regular use. Size guide is misleading, ordered my usual size but the Active Knit were too tight.",2026-01-19,True
+REV00429,ORD00176,C1472,P007,5,Loved the design and the fit was spot on. Would definitely recommend the Comfort Sandal.,2026-02-24,True
+REV00430,ORD00652,C1472,P009,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2025-10-08,True
+REV00431,ORD00835,C1153,P009,3,"Fit is okay, needed a few days to break in before it felt normal. Comfort is fine but I'm still deciding if I like the overall look.",2026-03-07,True
+REV00432,ORD00081,C1303,P007,4,I was skeptical but the Comfort Sandal exceeded my expectations. Extremely comfortable fit.,2025-12-08,True
+REV00433,ORD01176,C1362,P003,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-08-23,True
+REV00434,ORD00509,C1409,P004,5,Good value for money. The City Slip-On feel premium and well made.,2026-05-16,True
+REV00435,ORD00297,C1367,P004,5,Fits true to size and the arch support is great for standing all day.,2026-01-15,True
+REV00436,ORD00021,C1185,P003,2,"The fabric on the Daily Walk pilled and looked worn out very quickly. The Daily Walk arrived in a damaged box, packaging could be much better.",2026-06-15,True
+REV00437,ORD00694,C1352,P003,2,"Size guide is misleading, ordered my usual size but the Daily Walk were too tight. Customer support was unresponsive when I tried to exchange my order.",2026-05-08,True
+REV00438,ORD00781,C1192,P005,5,Breathable material and lightweight - ideal for long office days.,2026-06-20,True
+REV00439,ORD01063,C1062,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2026-06-23,True
+REV00440,ORD01102,C1408,P010,2,"Had a difficult time initiating the return for my Flex Trainer, support was slow to respond.",2025-11-23,True
+REV00441,ORD00830,C1326,P007,1,Stitching came undone within two weeks of regular use.,2026-04-19,False
+REV00442,ORD00381,C1471,P007,4,Good value for money. The Comfort Sandal feel premium and well made.,2025-10-26,True
+REV00443,ORD00743,C1082,P004,5,Super lightweight and stylish. Get compliments every time I wear my City Slip-On.,2026-06-15,True
+REV00444,ORD00756,C1053,P011,1,"Delivery was delayed by over a week, no proper updates on tracking.",2026-07-14,True
+REV00445,ORD00329,C1338,P004,1,"Overpriced for the quality you actually get with the City Slip-On. The design shows the logo too prominently, not a fan of the branding placement.",2026-07-12,True
+REV00446,ORD00188,C1262,P008,5,Super lightweight and stylish. Get compliments every time I wear my Trail Blazer.,2026-07-17,True
+REV00447,ORD00175,C1160,P004,5,"The City Slip-On are so soft and comfortable, feels like walking on clouds.",2026-05-03,True
+REV00448,ORD00643,C1469,P002,5,"Excellent build quality, the stitching and finish look premium.",2026-01-21,True
+REV00449,ORD00871,C1284,P011,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Loved the design and the fit was spot on. Would definitely recommend the Cloud Step.",2026-03-03,True
+REV00450,ORD00218,C1121,P003,5,"My third pair from Neeman's, and the Daily Walk might be my favourite so far. Excellent build quality, the stitching and finish look premium.",2026-05-06,True
+REV00451,ORD00960,C1484,P009,5,"These Classic Loafer are incredibly comfortable, I can wear them all day without any pain.",2026-02-05,True
+REV00452,ORD00234,C1176,P011,4,Great quality for the price. My Cloud Step still look brand new after months of use.,2026-04-01,True
+REV00453,ORD01012,C1389,P007,3,"Decent shoes for the price, though I expected slightly better cushioning. Good for casual use, not something I'd wear for long walks though.",2026-04-14,True
+REV00454,ORD00216,C1316,P012,1,Refund took much longer than promised after returning the Urban Hi-Top.,2026-06-20,True
+REV00455,ORD00908,C1294,P007,5,"The Comfort Sandal are so soft and comfortable, feels like walking on clouds.",2026-02-05,True
+REV00456,ORD01380,C1130,P005,1,"The Wool Runner arrived in a damaged box, packaging could be much better.",2026-03-21,True
+REV00457,ORD00821,C1403,P007,5,"My third pair from Neeman's, and the Comfort Sandal might be my favourite so far.",2025-12-06,False
+REV00458,ORD01276,C1022,P003,1,"Not built to last, the outer material tore within weeks.",2026-08-22,False
+REV00459,ORD00668,C1284,P004,5,Super lightweight and stylish. Get compliments every time I wear my City Slip-On.,2026-04-19,False
+REV00460,ORD00568,C1371,P008,1,Overpriced for the quality you actually get with the Trail Blazer.,2026-04-08,True
+REV00461,ORD00624,C1468,P009,4,"The Classic Loafer are so soft and comfortable, feels like walking on clouds.",2026-02-13,True
+REV00462,ORD01399,C1421,P012,2,"Return process was frustrating, took over two weeks to get my refund.",2026-04-23,True
+REV00463,ORD00910,C1399,P009,3,"The Classic Loafer are okay, nothing special but does the job. Average experience. Comfortable but the Espresso Brown colour looked a bit different than the photos.",2026-01-14,True
+REV00464,ORD01293,C1306,P005,2,"The insole is too thin, no arch support, my feet ache by evening.",2026-07-31,True
+REV00465,ORD00253,C1405,P003,4,I was skeptical but the Daily Walk exceeded my expectations. Extremely comfortable fit. Loved the design and the fit was spot on. Would definitely recommend the Daily Walk.,2026-08-24,True
+REV00466,ORD00252,C1153,P011,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-03-05,True
+REV00467,ORD01169,C1215,P005,3,"Good for casual use, not something I'd wear for long walks though.",2026-03-27,True
+REV00468,ORD00049,C1353,P003,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-04-18,True
+REV00469,ORD01297,C1379,P006,1,The Forest Green colour started fading after just a few washes.,2026-08-25,True
+REV00470,ORD00250,C1355,P005,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-01-26,True
+REV00471,ORD00473,C1151,P005,3,"Good for casual use, not something I'd wear for long walks though.",2026-02-01,True
+REV00472,ORD01181,C1012,P007,3,"Good for casual use, not something I'd wear for long walks though. It's a fine pair of Comfort Sandal, does what it says, no major complaints.",2026-06-30,True
+REV00473,ORD00124,C1265,P009,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2025-09-23,True
+REV00474,ORD00039,C1291,P003,5,"Super lightweight and stylish. Get compliments every time I wear my Daily Walk. My third pair from Neeman's, and the Daily Walk might be my favourite so far.",2025-10-31,True
+REV00475,ORD00826,C1132,P010,3,"Good for casual use, not something I'd wear for long walks though.",2026-08-25,True
+REV00476,ORD00217,C1462,P003,2,"Return pickup got rescheduled three times, very inconvenient experience.",2026-07-06,True
+REV00477,ORD00309,C1120,P005,5,"Very easy to wear, true to size, and the Heather Grey colour looks amazing in person.",2026-02-14,True
+REV00478,ORD00089,C1321,P005,5,"Very easy to wear, true to size, and the Heather Grey colour looks amazing in person. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-07-10,True
+REV00479,ORD00738,C1080,P012,4,"Very easy to wear, true to size, and the Black/White colour looks amazing in person.",2026-07-11,True
+REV00480,ORD00822,C1018,P009,4,Breathable material and lightweight - ideal for long office days. Great quality for the price. My Classic Loafer still look brand new after months of use.,2025-12-13,True
+REV00481,ORD00055,C1116,P008,4,"My third pair from Neeman's, and the Trail Blazer might be my favourite so far.",2026-01-12,True
+REV00482,ORD01144,C1043,P001,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-01-17,True
+REV00483,ORD01362,C1075,P012,1,The Black/White colour started fading after just a few washes.,2026-06-27,True
+REV00484,ORD01370,C1418,P002,2,"The Runner Pro fit narrow, my toes felt cramped within an hour of wearing them. Packaging felt very basic for the price point of these shoes.",2026-07-01,True
+REV00485,ORD00305,C1151,P004,4,"Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2025-11-21,True
+REV00486,ORD00444,C1460,P006,5,Loved the design and the fit was spot on. Would definitely recommend the Active Knit.,2025-11-09,True
+REV00487,ORD01398,C1003,P007,5,Good value for money. The Comfort Sandal feel premium and well made.,2025-09-25,True
+REV00488,ORD01215,C1055,P008,4,"These Trail Blazer are incredibly comfortable, I can wear them all day without any pain.",2026-04-26,True
+REV00489,ORD01017,C1061,P003,4,Super lightweight and stylish. Get compliments every time I wear my Daily Walk.,2025-09-16,True
+REV00490,ORD00402,C1251,P007,1,Bought these two months ago and the sole has already worn thin.,2026-06-11,True
+REV00491,ORD00031,C1441,P012,5,Loved the design and the fit was spot on. Would definitely recommend the Urban Hi-Top.,2025-10-19,True
+REV00492,ORD00349,C1249,P004,5,Good value for money. The City Slip-On feel premium and well made.,2026-05-30,True
+REV00493,ORD00989,C1141,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-03-29,True
+REV00494,ORD00906,C1372,P008,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-01-14,True
+REV00495,ORD00530,C1436,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2026-08-22,True
+REV00496,ORD00474,C1196,P008,1,"The Trail Blazer run really small, had to return and get a bigger size.",2026-04-21,True
+REV00497,ORD00475,C1278,P003,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-04-13,True
+REV00498,ORD00933,C1107,P008,5,Perfect for daily walks. The cushioning on the Trail Blazer is fantastic.,2026-05-18,True
+REV00499,ORD00243,C1021,P005,5,"Perfect for daily walks. The cushioning on the Wool Runner is fantastic. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-02-06,True
+REV00500,ORD00275,C1037,P007,5,"Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal. My third pair from Neeman's, and the Comfort Sandal might be my favourite so far.",2026-03-28,True
+REV00501,ORD01285,C1110,P011,5,I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit. Breathable material and lightweight - ideal for long office days.,2025-09-27,True
+REV00502,ORD00902,C1394,P008,4,"These Trail Blazer are incredibly comfortable, I can wear them all day without any pain.",2026-01-26,True
+REV00503,ORD00044,C1413,P004,5,"Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2026-03-22,True
+REV00504,ORD00204,C1488,P011,2,"Had a difficult time initiating the return for my Cloud Step, support was slow to respond.",2025-10-21,True
+REV00505,ORD00806,C1423,P011,3,Average experience. Comfortable but the Sky Blue colour looked a bit different than the photos.,2025-10-18,True
+REV00506,ORD01096,C1002,P005,4,"These Wool Runner are incredibly comfortable, I can wear them all day without any pain.",2026-07-06,True
+REV00507,ORD00339,C1238,P010,5,Super lightweight and stylish. Get compliments every time I wear my Flex Trainer. Breathable material and lightweight - ideal for long office days.,2026-08-24,True
+REV00508,ORD00458,C1459,P003,4,Great quality for the price. My Daily Walk still look brand new after months of use.,2026-08-22,False
+REV00509,ORD00553,C1485,P007,2,"Delivery was delayed by over a week, no proper updates on tracking. Poor durability, the stitching on the sides is already coming apart.",2026-08-23,True
+REV00510,ORD00200,C1229,P002,1,"Had to size up two sizes to get a comfortable fit on the Runner Pro. Value for money isn't great, quality doesn't quite match the price tag.",2025-12-15,True
+REV00511,ORD01192,C1348,P011,2,"Return process was frustrating, took over two weeks to get my refund.",2025-12-03,True
+REV00512,ORD00728,C1175,P001,5,Breathable material and lightweight - ideal for long office days.,2026-01-15,True
+REV00513,ORD01340,C1073,P012,5,"Excellent build quality, the stitching and finish look premium.",2025-11-06,True
+REV00514,ORD01045,C1095,P010,1,"Build quality is disappointing, doesn't feel like a premium product.",2026-05-22,True
+REV00515,ORD01354,C1149,P012,4,Perfect for daily walks. The cushioning on the Urban Hi-Top is fantastic.,2026-07-13,True
+REV00516,ORD00561,C1169,P004,4,Perfect for daily walks. The cushioning on the City Slip-On is fantastic.,2026-03-04,True
+REV00517,ORD01374,C1259,P002,5,"The Runner Pro are so soft and comfortable, feels like walking on clouds. Perfect for daily walks. The cushioning on the Runner Pro is fantastic.",2026-06-23,True
+REV00518,ORD00528,C1010,P004,4,"These City Slip-On are incredibly comfortable, I can wear them all day without any pain.",2026-01-15,True
+REV00519,ORD00907,C1340,P005,5,Breathable material and lightweight - ideal for long office days.,2026-04-22,True
+REV00520,ORD00723,C1409,P004,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-12-02,True
+REV00521,ORD01027,C1090,P007,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Good value for money. The Comfort Sandal feel premium and well made.",2025-11-14,True
+REV00522,ORD01051,C1223,P004,3,"The City Slip-On are okay, nothing special but does the job.",2025-11-07,True
+REV00523,ORD01270,C1294,P004,2,"No proper protective packaging inside the box, shoes had a scuff on arrival.",2026-02-15,True
+REV00524,ORD00710,C1011,P010,5,"My third pair from Neeman's, and the Flex Trainer might be my favourite so far.",2026-05-31,True
+REV00525,ORD00764,C1153,P003,1,Order took much longer than the estimated delivery window.,2026-01-30,True
+REV00526,ORD00196,C1268,P006,1,Had to size up two sizes to get a comfortable fit on the Active Knit.,2025-11-06,True
+REV00527,ORD01364,C1369,P002,3,"The Runner Pro are okay, nothing special but does the job.",2026-05-29,True
+REV00528,ORD00100,C1176,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2026-08-19,True
+REV00529,ORD01322,C1372,P011,3,Average experience. Comfortable but the Sky Blue colour looked a bit different than the photos.,2026-03-16,True
+REV00530,ORD01199,C1039,P012,5,"The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2026-08-25,False
+REV00531,ORD01053,C1400,P005,5,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2026-02-03,True
+REV00532,ORD00076,C1277,P012,5,Super lightweight and stylish. Get compliments every time I wear my Urban Hi-Top.,2025-11-25,True
+REV00533,ORD00605,C1299,P003,1,The material quality of the Daily Walk feels cheap compared to the price.,2026-06-03,True
+REV00534,ORD00322,C1060,P007,3,"It's a fine pair of Comfort Sandal, does what it says, no major complaints.",2025-10-16,True
+REV00535,ORD00878,C1353,P010,3,"The Flex Trainer are okay, nothing special but does the job.",2026-05-24,True
+REV00536,ORD00341,C1104,P008,1,"Not comfortable at all for daily wear, the sole feels too hard. The Olive Green colour started fading after just a few washes.",2026-05-21,True
+REV00537,ORD00950,C1232,P005,2,Stitching came undone within two weeks of regular use. Design looks nice in photos but feels a bit plain in person.,2025-11-27,False
+REV00538,ORD00106,C1225,P008,5,Great quality for the price. My Trail Blazer still look brand new after months of use.,2025-10-29,True
+REV00539,ORD01253,C1019,P002,2,"Size guide is misleading, ordered my usual size but the Runner Pro were too tight.",2026-02-08,True
+REV00540,ORD00780,C1384,P006,5,"These Active Knit are incredibly comfortable, I can wear them all day without any pain. Breathable material and lightweight - ideal for long office days.",2025-12-26,True
+REV00541,ORD01262,C1016,P011,4,"The Cloud Step are so soft and comfortable, feels like walking on clouds.",2026-03-30,True
+REV00542,ORD00750,C1187,P008,5,"These Trail Blazer are incredibly comfortable, I can wear them all day without any pain.",2026-06-03,True
+REV00543,ORD00017,C1349,P007,3,"It's a fine pair of Comfort Sandal, does what it says, no major complaints.",2026-07-02,True
+REV00544,ORD00618,C1019,P012,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-08-14,True
+REV00545,ORD00797,C1351,P001,5,"My third pair from Neeman's, and the Everyday Sneakers might be my favourite so far.",2026-07-31,True
+REV00546,ORD00169,C1314,P002,4,I was skeptical but the Runner Pro exceeded my expectations. Extremely comfortable fit.,2025-10-08,True
+REV00547,ORD00083,C1450,P008,1,"Poor durability, the stitching on the sides is already coming apart.",2025-12-16,True
+REV00548,ORD00226,C1424,P002,1,"Received the wrong colour, ordered Jet Black but got a completely different shade. The Runner Pro arrived quite late, would have appreciated better communication.",2026-08-12,True
+REV00549,ORD00258,C1221,P009,5,Fits true to size and the arch support is great for standing all day.,2026-08-11,True
+REV00550,ORD00420,C1063,P001,4,Good value for money. The Everyday Sneakers feel premium and well made.,2025-10-31,True
+REV00551,ORD00042,C1318,P005,5,I was skeptical but the Wool Runner exceeded my expectations. Extremely comfortable fit.,2026-05-04,True
+REV00552,ORD00467,C1052,P003,4,"Very easy to wear, true to size, and the Stone Beige colour looks amazing in person.",2025-09-24,False
+REV00553,ORD00390,C1084,P012,3,"Good for casual use, not something I'd wear for long walks though.",2025-11-17,True
+REV00554,ORD00606,C1020,P005,3,"Good for casual use, not something I'd wear for long walks though.",2025-09-17,True
+REV00555,ORD00367,C1220,P002,4,Breathable material and lightweight - ideal for long office days.,2025-10-21,True
+REV00556,ORD00145,C1300,P001,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. It's a fine pair of Everyday Sneakers, does what it says, no major complaints.",2026-05-14,True
+REV00557,ORD01098,C1201,P006,1,The fabric on the Active Knit pilled and looked worn out very quickly.,2025-10-04,True
+REV00558,ORD01384,C1168,P002,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-02-07,True
+REV00559,ORD00567,C1435,P002,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-03-30,True
+REV00560,ORD00560,C1267,P002,5,Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2025-11-05,True
+REV00561,ORD01201,C1189,P007,2,The Tan Brown colour looked very different from the pictures on the site.,2026-07-20,True
+REV00562,ORD00992,C1449,P005,4,I was skeptical but the Wool Runner exceeded my expectations. Extremely comfortable fit.,2025-11-20,True
+REV00563,ORD00733,C1479,P012,5,"Very easy to wear, true to size, and the Black/White colour looks amazing in person. My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2025-10-21,True
+REV00564,ORD01277,C1461,P004,5,Loved the design and the fit was spot on. Would definitely recommend the City Slip-On. Perfect for daily walks. The cushioning on the City Slip-On is fantastic.,2025-12-05,True
+REV00565,ORD01014,C1145,P012,5,Great quality for the price. My Urban Hi-Top still look brand new after months of use.,2025-09-25,True
+REV00566,ORD01132,C1364,P012,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-08-21,True
+REV00567,ORD00732,C1235,P007,2,"The Comfort Sandal developed cracks in the sole much sooner than expected. Size guide is misleading, ordered my usual size but the Comfort Sandal were too tight.",2026-04-14,True
+REV00568,ORD00501,C1121,P007,5,"Excellent build quality, the stitching and finish look premium.",2026-08-25,True
+REV00569,ORD00168,C1269,P004,2,"Delivery partner mishandled the package, box arrived damaged.",2026-07-21,False
+REV00570,ORD00178,C1168,P003,4,Super lightweight and stylish. Get compliments every time I wear my Daily Walk. Great quality for the price. My Daily Walk still look brand new after months of use.,2026-06-20,True
+REV00571,ORD00317,C1413,P001,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-04-22,True
+REV00572,ORD00040,C1267,P004,3,"Good for casual use, not something I'd wear for long walks though.",2026-07-19,True
+REV00573,ORD00674,C1089,P009,3,"Fit is okay, needed a few days to break in before it felt normal. Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-02-06,False
+REV00574,ORD01038,C1353,P007,5,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2026-02-20,True
+REV00575,ORD01332,C1172,P005,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-16,True
+REV00576,ORD01184,C1029,P011,5,I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit.,2025-12-09,True
+REV00577,ORD00545,C1092,P004,5,"I was skeptical but the City Slip-On exceeded my expectations. Extremely comfortable fit. Bought as a gift, and the packaging plus quality really impressed my friend.",2026-03-01,True
+REV00578,ORD00113,C1440,P008,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-08-17,True
+REV00579,ORD01084,C1465,P009,4,"The Classic Loafer are so soft and comfortable, feels like walking on clouds.",2025-09-28,True
+REV00580,ORD00441,C1341,P001,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-01-17,True
+REV00581,ORD00917,C1108,P008,5,Breathable material and lightweight - ideal for long office days.,2025-09-15,True
+REV00582,ORD00109,C1115,P005,4,Super lightweight and stylish. Get compliments every time I wear my Wool Runner.,2025-11-06,True
+REV00583,ORD00143,C1349,P004,1,"Delivery was delayed by over a week, no proper updates on tracking. Expected more cushioning, my feet hurt after just an hour of wearing the City Slip-On.",2026-05-30,True
+REV00584,ORD01057,C1168,P009,5,Fits true to size and the arch support is great for standing all day.,2026-01-09,True
+REV00585,ORD00424,C1244,P007,5,Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal.,2026-08-22,True
+REV00586,ORD01162,C1047,P004,4,"Excellent build quality, the stitching and finish look premium.",2026-03-19,True
+REV00587,ORD01066,C1017,P008,1,Design looks nice in photos but feels a bit plain in person.,2026-08-11,True
+REV00588,ORD01326,C1249,P003,3,"It's a fine pair of Daily Walk, does what it says, no major complaints. Decent shoes for the price, though I expected slightly better cushioning.",2025-12-04,True
+REV00589,ORD01292,C1336,P006,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-09-12,True
+REV00590,ORD00307,C1244,P007,5,Great quality for the price. My Comfort Sandal still look brand new after months of use.,2026-04-27,True
+REV00591,ORD01234,C1003,P012,1,"The Urban Hi-Top feel stiff and uncomfortable, especially around the heel area.",2026-03-24,True
+REV00592,ORD00010,C1236,P010,1,"Value for money isn't great, quality doesn't quite match the price tag.",2026-08-12,True
+REV00593,ORD00648,C1263,P001,1,"Received the wrong colour, ordered Charcoal Grey but got a completely different shade.",2026-06-07,True
+REV00594,ORD01005,C1465,P001,5,Perfect for daily walks. The cushioning on the Everyday Sneakers is fantastic.,2026-01-01,True
+REV00595,ORD00342,C1379,P006,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-02-04,True
+REV00596,ORD00051,C1127,P001,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Everyday Sneakers don't. The Charcoal Grey colour looked very different from the pictures on the site.,2026-02-08,True
+REV00597,ORD00048,C1134,P005,1,"The Wool Runner run really small, had to return and get a bigger size.",2025-10-04,True
+REV00598,ORD00524,C1421,P004,3,"Decent shoes for the price, though I expected slightly better cushioning.",2025-10-24,True
+REV00599,ORD01261,C1217,P003,4,"The Daily Walk are so soft and comfortable, feels like walking on clouds.",2026-02-11,True
+REV00600,ORD00904,C1475,P005,5,"The Wool Runner are so soft and comfortable, feels like walking on clouds.",2026-01-28,True
+REV00601,ORD00614,C1459,P006,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-06-06,True
+REV00602,ORD00996,C1421,P005,2,The Wool Runner developed cracks in the sole much sooner than expected.,2026-08-23,False
+REV00603,ORD01212,C1171,P007,1,"Expected more cushioning, my feet hurt after just an hour of wearing the Comfort Sandal. Stitching came undone within two weeks of regular use.",2026-06-09,True
+REV00604,ORD01024,C1049,P007,5,"These Comfort Sandal are incredibly comfortable, I can wear them all day without any pain. I was skeptical but the Comfort Sandal exceeded my expectations. Extremely comfortable fit.",2026-07-06,True
+REV00605,ORD01166,C1242,P012,4,Perfect for daily walks. The cushioning on the Urban Hi-Top is fantastic.,2026-05-24,True
+REV00606,ORD00035,C1232,P007,5,"The Comfort Sandal are so soft and comfortable, feels like walking on clouds.",2025-10-16,True
+REV00607,ORD01190,C1400,P009,5,"These Classic Loafer are incredibly comfortable, I can wear them all day without any pain. I was skeptical but the Classic Loafer exceeded my expectations. Extremely comfortable fit.",2025-12-31,True
+REV00608,ORD00759,C1192,P007,5,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2026-07-26,True
+REV00609,ORD00980,C1197,P006,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-04-02,True
+REV00610,ORD00336,C1447,P001,5,"My third pair from Neeman's, and the Everyday Sneakers might be my favourite so far.",2026-01-15,True
+REV00611,ORD00704,C1294,P007,3,"Good for casual use, not something I'd wear for long walks though.",2025-11-07,True
+REV00612,ORD00686,C1344,P001,5,"Very easy to wear, true to size, and the Charcoal Grey colour looks amazing in person.",2026-08-23,True
+REV00613,ORD00073,C1132,P012,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-05-27,True
+REV00614,ORD00119,C1387,P011,5,"Excellent build quality, the stitching and finish look premium. Great quality for the price. My Cloud Step still look brand new after months of use.",2026-07-17,False
+REV00615,ORD00586,C1324,P012,3,"It's a fine pair of Urban Hi-Top, does what it says, no major complaints.",2026-03-13,True
+REV00616,ORD00988,C1457,P005,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-02-07,True
+REV00617,ORD00874,C1233,P003,4,Good value for money. The Daily Walk feel premium and well made.,2025-10-16,True
+REV00618,ORD00259,C1115,P009,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-10-15,True
+REV00619,ORD00030,C1442,P004,4,"Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2025-11-08,True
+REV00620,ORD00363,C1230,P010,2,Stitching came undone within two weeks of regular use.,2026-07-09,True
+REV00621,ORD01073,C1093,P003,5,"Excellent build quality, the stitching and finish look premium.",2026-08-23,False
+REV00622,ORD00774,C1376,P004,4,"Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2026-05-24,False
+REV00623,ORD00676,C1345,P010,4,Perfect for daily walks. The cushioning on the Flex Trainer is fantastic.,2026-05-22,True
+REV00624,ORD01046,C1480,P010,3,"It's a fine pair of Flex Trainer, does what it says, no major complaints.",2026-05-20,True
+REV00625,ORD00121,C1164,P010,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-04-13,True
+REV00626,ORD00294,C1040,P006,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Loved the design and the fit was spot on. Would definitely recommend the Active Knit.",2025-12-05,True
+REV00627,ORD00212,C1286,P007,1,"Not built to last, the outer material tore within weeks.",2025-11-16,True
+REV00628,ORD01039,C1496,P011,2,"Uncomfortable fit around the ankle, kept rubbing and causing blisters. The Sky Blue colour started fading after just a few washes.",2025-12-25,False
+REV00629,ORD00852,C1273,P005,5,Breathable material and lightweight - ideal for long office days. Fits true to size and the arch support is great for standing all day.,2026-02-25,True
+REV00630,ORD01158,C1024,P001,5,Good value for money. The Everyday Sneakers feel premium and well made.,2026-03-27,True
+REV00631,ORD00181,C1115,P008,2,"Poor durability, the stitching on the sides is already coming apart.",2025-12-22,True
+REV00632,ORD01129,C1480,P009,5,"The Classic Loafer are so soft and comfortable, feels like walking on clouds. Super lightweight and stylish. Get compliments every time I wear my Classic Loafer.",2025-10-26,True
+REV00633,ORD00438,C1142,P007,5,"The Comfort Sandal are so soft and comfortable, feels like walking on clouds.",2025-10-16,False
+REV00634,ORD00340,C1451,P009,4,I was skeptical but the Classic Loafer exceeded my expectations. Extremely comfortable fit.,2026-08-12,True
+REV00635,ORD00739,C1182,P008,5,"Excellent build quality, the stitching and finish look premium. Fits true to size and the arch support is great for standing all day.",2025-11-02,True
+REV00636,ORD00506,C1049,P005,4,Super lightweight and stylish. Get compliments every time I wear my Wool Runner.,2026-06-22,True
+REV00637,ORD00086,C1078,P001,5,Breathable material and lightweight - ideal for long office days.,2025-10-06,True
+REV00638,ORD00865,C1149,P004,4,"Very easy to wear, true to size, and the Navy Blue colour looks amazing in person.",2025-11-19,False
+REV00639,ORD00608,C1269,P010,5,I was skeptical but the Flex Trainer exceeded my expectations. Extremely comfortable fit.,2026-06-20,True
+REV00640,ORD00201,C1034,P011,5,Loved the design and the fit was spot on. Would definitely recommend the Cloud Step.,2026-06-23,True
+REV00641,ORD00425,C1440,P002,5,"My third pair from Neeman's, and the Runner Pro might be my favourite so far. Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.",2025-11-21,True
+REV00642,ORD01304,C1251,P006,3,"Good for casual use, not something I'd wear for long walks though.",2025-12-17,True
+REV00643,ORD00783,C1339,P004,5,Breathable material and lightweight - ideal for long office days.,2026-08-26,True
+REV00644,ORD00672,C1045,P011,5,Breathable material and lightweight - ideal for long office days.,2025-09-10,True
+REV00645,ORD00434,C1455,P004,4,I was skeptical but the City Slip-On exceeded my expectations. Extremely comfortable fit.,2026-05-22,True
+REV00646,ORD00229,C1318,P007,4,"My third pair from Neeman's, and the Comfort Sandal might be my favourite so far.",2025-11-09,True
+REV00647,ORD00139,C1316,P011,5,"These Cloud Step are incredibly comfortable, I can wear them all day without any pain. Bought as a gift, and the packaging plus quality really impressed my friend.",2026-06-06,True
+REV00648,ORD00749,C1336,P001,4,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2025-12-29,True
+REV00649,ORD00566,C1375,P011,5,I was skeptical but the Cloud Step exceeded my expectations. Extremely comfortable fit.,2026-08-06,True
+REV00650,ORD00104,C1273,P005,1,"The Wool Runner feel stiff and uncomfortable, especially around the heel area. The Heather Grey colour started fading after just a few washes.",2025-12-30,True
+REV00651,ORD00296,C1300,P009,2,"Had to size up two sizes to get a comfortable fit on the Classic Loafer. Expected more for this price point, similar shoes elsewhere are better value.",2026-08-21,True
+REV00652,ORD00173,C1220,P009,5,Super lightweight and stylish. Get compliments every time I wear my Classic Loafer.,2026-08-25,True
+REV00653,ORD00716,C1276,P005,4,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2026-06-05,True
+REV00654,ORD00893,C1349,P007,5,"Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal. Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2025-09-13,False
+REV00655,ORD00333,C1029,P003,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-06-13,True
+REV00656,ORD00544,C1070,P009,5,"Bought as a gift, and the packaging plus quality really impressed my friend. Loved the design and the fit was spot on. Would definitely recommend the Classic Loafer.",2026-01-31,False
+REV00657,ORD00622,C1310,P006,2,"The Active Knit run really small, had to return and get a bigger size.",2026-05-19,True
+REV00658,ORD01133,C1318,P007,5,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2026-04-24,True
+REV00659,ORD00602,C1444,P009,5,"The Classic Loafer are so soft and comfortable, feels like walking on clouds.",2025-09-26,True
+REV00660,ORD00974,C1148,P009,5,Good value for money. The Classic Loafer feel premium and well made.,2026-03-07,True
+REV00661,ORD00459,C1326,P009,4,"My third pair from Neeman's, and the Classic Loafer might be my favourite so far.",2026-03-27,False
+REV00662,ORD00429,C1111,P011,4,Perfect for daily walks. The cushioning on the Cloud Step is fantastic.,2025-12-14,True
+REV00663,ORD01305,C1425,P002,4,"Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2025-12-12,False
+REV00664,ORD00177,C1415,P008,4,Fits true to size and the arch support is great for standing all day.,2025-10-22,True
+REV00665,ORD00546,C1002,P002,3,"The Runner Pro are okay, nothing special but does the job.",2026-05-29,True
+REV00666,ORD00190,C1108,P007,5,Breathable material and lightweight - ideal for long office days.,2026-07-20,True
+REV00667,ORD01156,C1276,P006,4,I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit.,2026-07-26,True
+REV00668,ORD00034,C1109,P001,4,"I was skeptical but the Everyday Sneakers exceeded my expectations. Extremely comfortable fit. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2025-11-02,True
+REV00669,ORD00698,C1351,P005,5,Good value for money. The Wool Runner feel premium and well made.,2026-05-06,True
+REV00670,ORD01126,C1018,P008,2,"The design shows the logo too prominently, not a fan of the branding placement.",2026-07-03,True
+REV00671,ORD01016,C1188,P007,4,Breathable material and lightweight - ideal for long office days.,2025-12-12,True
+REV00672,ORD00123,C1206,P007,4,Fits true to size and the arch support is great for standing all day.,2026-06-26,True
+REV00673,ORD00849,C1014,P005,4,Fits true to size and the arch support is great for standing all day. Good value for money. The Wool Runner feel premium and well made.,2026-06-27,True
+REV00674,ORD00938,C1110,P004,2,"The City Slip-On run really small, had to return and get a bigger size.",2025-10-25,True
+REV00675,ORD00973,C1279,P002,4,"Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2025-10-08,True
+REV00676,ORD00921,C1058,P011,2,Bought these two months ago and the sole has already worn thin.,2025-10-06,True
+REV00677,ORD00365,C1078,P011,4,"The Cloud Step are so soft and comfortable, feels like walking on clouds. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-07-12,True
+REV00678,ORD00445,C1039,P001,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-03-12,True
+REV00679,ORD00724,C1414,P010,2,The material quality of the Flex Trainer feels cheap compared to the price.,2026-08-25,True
+REV00680,ORD00326,C1304,P007,5,Breathable material and lightweight - ideal for long office days.,2026-07-18,True
+REV00681,ORD00572,C1289,P001,5,"Very easy to wear, true to size, and the Charcoal Grey colour looks amazing in person.",2026-08-26,True
+REV00682,ORD00155,C1195,P002,4,Good value for money. The Runner Pro feel premium and well made.,2026-03-24,True
+REV00683,ORD00508,C1293,P009,5,Good value for money. The Classic Loafer feel premium and well made.,2026-04-10,True
+REV00684,ORD00965,C1340,P004,2,"Delivery was delayed by over a week, no proper updates on tracking.",2026-06-12,True
+REV00685,ORD00855,C1451,P010,5,"The Flex Trainer are so soft and comfortable, feels like walking on clouds.",2026-01-15,True
+REV00686,ORD00451,C1026,P012,3,"Good for casual use, not something I'd wear for long walks though.",2026-02-24,True
+REV00687,ORD00619,C1198,P002,2,"Had to size up two sizes to get a comfortable fit on the Runner Pro. Late delivery ruined the surprise, had ordered these for an event.",2025-10-30,True
+REV00688,ORD00987,C1078,P005,4,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-07-15,True
+REV00689,ORD00840,C1191,P008,5,"These Trail Blazer are incredibly comfortable, I can wear them all day without any pain.",2026-02-14,True
+REV00690,ORD00264,C1327,P005,5,Good value for money. The Wool Runner feel premium and well made.,2026-08-18,True
+REV00691,ORD01094,C1443,P009,3,"Fit is okay, needed a few days to break in before it felt normal. Average experience. Comfortable but the Espresso Brown colour looked a bit different than the photos.",2026-05-09,True
+REV00692,ORD00156,C1482,P011,3,"The Cloud Step are okay, nothing special but does the job.",2026-03-22,True
+REV00693,ORD00396,C1432,P007,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-07-14,True
+REV00694,ORD00836,C1295,P010,4,Super lightweight and stylish. Get compliments every time I wear my Flex Trainer.,2026-08-24,True
+REV00695,ORD00032,C1142,P002,5,"These Runner Pro are incredibly comfortable, I can wear them all day without any pain.",2026-01-12,True
+REV00696,ORD00174,C1369,P002,5,Perfect for daily walks. The cushioning on the Runner Pro is fantastic.,2026-08-26,True
+REV00697,ORD00647,C1309,P005,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-03-16,False
+REV00698,ORD00516,C1292,P002,2,"The Runner Pro fit narrow, my toes felt cramped within an hour of wearing them.",2026-01-27,True
+REV00699,ORD00082,C1443,P010,3,"Good for casual use, not something I'd wear for long walks though.",2026-08-02,True
+REV00700,ORD01022,C1321,P008,5,Good value for money. The Trail Blazer feel premium and well made.,2025-11-02,True
+REV00701,ORD01178,C1459,P001,5,I was skeptical but the Everyday Sneakers exceeded my expectations. Extremely comfortable fit.,2026-07-11,True
+REV00702,ORD00934,C1232,P007,1,"Size guide is misleading, ordered my usual size but the Comfort Sandal were too tight. Bought these two months ago and the sole has already worn thin.",2026-01-14,True
+REV00703,ORD00057,C1449,P005,2,"The Wool Runner feel stiff and uncomfortable, especially around the heel area.",2026-03-12,True
+REV00704,ORD00403,C1149,P007,5,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person. The Comfort Sandal are so soft and comfortable, feels like walking on clouds.",2026-08-25,True
+REV00705,ORD01040,C1038,P007,5,"Excellent build quality, the stitching and finish look premium.",2025-12-28,True
+REV00706,ORD00028,C1248,P001,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-02-25,True
+REV00707,ORD00959,C1422,P002,4,"Very easy to wear, true to size, and the Jet Black colour looks amazing in person.",2026-03-13,True
+REV00708,ORD01047,C1289,P008,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-01-29,True
+REV00709,ORD00130,C1395,P004,3,Average experience. Comfortable but the Navy Blue colour looked a bit different than the photos.,2026-07-16,True
+REV00710,ORD00804,C1449,P012,5,"My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2025-09-24,True
+REV00711,ORD00913,C1356,P005,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-08-04,True
+REV00712,ORD00876,C1255,P006,5,"Excellent build quality, the stitching and finish look premium. The Active Knit are so soft and comfortable, feels like walking on clouds.",2026-01-01,False
+REV00713,ORD00228,C1270,P005,4,Fits true to size and the arch support is great for standing all day.,2026-01-05,True
+REV00714,ORD00262,C1309,P010,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-12-06,True
+REV00715,ORD01216,C1121,P008,1,"The material quality of the Trail Blazer feels cheap compared to the price. Uncomfortable fit around the ankle, kept rubbing and causing blisters.",2026-01-14,True
+REV00716,ORD01246,C1137,P006,1,"Delivery was delayed by over a week, no proper updates on tracking.",2026-05-29,True
+REV00717,ORD00159,C1300,P004,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-06-10,True
+REV00718,ORD00498,C1482,P006,2,"Build quality is disappointing, doesn't feel like a premium product.",2025-12-12,True
+REV00719,ORD01065,C1082,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-02-25,True
+REV00720,ORD01217,C1469,P002,4,Loved the design and the fit was spot on. Would definitely recommend the Runner Pro.,2026-07-25,True
+REV00721,ORD00868,C1206,P006,4,Perfect for daily walks. The cushioning on the Active Knit is fantastic.,2025-11-01,True
+REV00722,ORD00379,C1324,P005,5,"My third pair from Neeman's, and the Wool Runner might be my favourite so far.",2026-08-25,True
+REV00723,ORD00064,C1155,P010,5,Good value for money. The Flex Trainer feel premium and well made.,2026-07-12,True
+REV00724,ORD00877,C1019,P012,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-01-17,True
+REV00725,ORD01069,C1227,P009,4,I was skeptical but the Classic Loafer exceeded my expectations. Extremely comfortable fit.,2026-03-06,True
+REV00726,ORD00512,C1468,P004,5,Great quality for the price. My City Slip-On still look brand new after months of use.,2026-08-02,True
+REV00727,ORD00607,C1251,P003,5,"Excellent build quality, the stitching and finish look premium.",2026-03-08,True
+REV00728,ORD01242,C1126,P010,3,"It's a fine pair of Flex Trainer, does what it says, no major complaints.",2026-07-09,True
+REV00729,ORD00019,C1320,P008,1,"The Trail Blazer developed cracks in the sole much sooner than expected. The insole is too thin, no arch support, my feet ache by evening.",2025-09-19,True
+REV00730,ORD01324,C1251,P007,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Comfort Sandal don't.,2026-08-21,False
+REV00731,ORD00944,C1446,P008,5,"Breathable material and lightweight - ideal for long office days. These Trail Blazer are incredibly comfortable, I can wear them all day without any pain.",2026-05-01,False
+REV00732,ORD00392,C1202,P007,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-08-04,True
+REV00733,ORD01143,C1393,P002,5,Super lightweight and stylish. Get compliments every time I wear my Runner Pro.,2025-11-19,True
+REV00734,ORD01153,C1101,P010,1,"The Flex Trainer fit narrow, my toes felt cramped within an hour of wearing them.",2026-08-06,False
+REV00735,ORD00766,C1019,P012,3,"The Urban Hi-Top are okay, nothing special but does the job. Good for casual use, not something I'd wear for long walks though.",2026-08-26,False
+REV00736,ORD01056,C1486,P012,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. It's a fine pair of Urban Hi-Top, does what it says, no major complaints.",2026-05-22,True
+REV00737,ORD01174,C1119,P006,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-10-20,True
+REV00738,ORD01385,C1193,P011,5,"Excellent build quality, the stitching and finish look premium.",2025-11-07,True
+REV00739,ORD00969,C1406,P012,4,"These Urban Hi-Top are incredibly comfortable, I can wear them all day without any pain. The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2026-06-21,True
+REV00740,ORD00457,C1497,P012,2,"Size guide is misleading, ordered my usual size but the Urban Hi-Top were too tight. Value for money isn't great, quality doesn't quite match the price tag.",2026-02-21,True
+REV00741,ORD00881,C1232,P011,1,"The Cloud Step feel stiff and uncomfortable, especially around the heel area.",2025-10-13,True
+REV00742,ORD01376,C1251,P009,5,Loved the design and the fit was spot on. Would definitely recommend the Classic Loafer. Super lightweight and stylish. Get compliments every time I wear my Classic Loafer.,2026-02-14,True
+REV00743,ORD01034,C1331,P007,4,"The Comfort Sandal are so soft and comfortable, feels like walking on clouds.",2026-02-27,True
+REV00744,ORD00883,C1288,P005,5,Perfect for daily walks. The cushioning on the Wool Runner is fantastic.,2026-02-24,True
+REV00745,ORD01251,C1012,P007,2,"The insole is too thin, no arch support, my feet ache by evening.",2026-04-26,True
+REV00746,ORD01103,C1494,P001,5,"The Everyday Sneakers are so soft and comfortable, feels like walking on clouds.",2025-10-12,True
+REV00747,ORD00577,C1228,P004,1,"Not comfortable at all for daily wear, the sole feels too hard.",2026-06-24,True
+REV00748,ORD00534,C1152,P005,2,Bought these two months ago and the sole has already worn thin.,2026-01-26,True
+REV00749,ORD00578,C1206,P006,3,"Fit is okay, needed a few days to break in before it felt normal.",2025-11-04,True
+REV00750,ORD01207,C1400,P003,5,Good value for money. The Daily Walk feel premium and well made.,2025-10-14,True
+REV00751,ORD01088,C1160,P006,5,I was skeptical but the Active Knit exceeded my expectations. Extremely comfortable fit.,2026-08-24,False
+REV00752,ORD01072,C1133,P007,4,"Very easy to wear, true to size, and the Tan Brown colour looks amazing in person.",2026-02-14,True
+REV00753,ORD00454,C1252,P005,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-07-18,True
+REV00754,ORD01175,C1045,P007,5,Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal.,2026-02-28,True
+REV00755,ORD00975,C1245,P010,1,The White colour started fading after just a few washes.,2026-08-16,True
+REV00756,ORD01036,C1290,P009,5,Perfect for daily walks. The cushioning on the Classic Loafer is fantastic. Fits true to size and the arch support is great for standing all day.,2026-02-26,True
+REV00757,ORD00152,C1139,P004,4,"Excellent build quality, the stitching and finish look premium.",2025-11-25,False
+REV00758,ORD01282,C1486,P008,4,Loved the design and the fit was spot on. Would definitely recommend the Trail Blazer.,2025-10-21,True
+REV00759,ORD00692,C1027,P009,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-01-31,True
+REV00760,ORD00655,C1093,P008,3,"Decent shoes for the price, though I expected slightly better cushioning.",2025-12-14,True
+REV00761,ORD01125,C1434,P007,5,"Great quality for the price. My Comfort Sandal still look brand new after months of use. Excellent build quality, the stitching and finish look premium.",2025-10-04,True
+REV00762,ORD00753,C1155,P006,2,The material quality of the Active Knit feels cheap compared to the price.,2026-08-24,True
+REV00763,ORD00521,C1108,P012,4,"Great quality for the price. My Urban Hi-Top still look brand new after months of use. My third pair from Neeman's, and the Urban Hi-Top might be my favourite so far.",2026-04-29,True
+REV00764,ORD01194,C1425,P010,5,Loved the design and the fit was spot on. Would definitely recommend the Flex Trainer. Super lightweight and stylish. Get compliments every time I wear my Flex Trainer.,2025-10-17,True
+REV00765,ORD01249,C1265,P010,5,"Excellent build quality, the stitching and finish look premium.",2025-12-08,True
+REV00766,ORD00346,C1094,P012,5,"Excellent build quality, the stitching and finish look premium.",2026-03-19,True
+REV00767,ORD01037,C1292,P009,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-04-21,False
+REV00768,ORD00890,C1419,P011,2,"Delivery partner mishandled the package, box arrived damaged.",2025-12-11,True
+REV00769,ORD01226,C1453,P007,4,"Great quality for the price. My Comfort Sandal still look brand new after months of use. My third pair from Neeman's, and the Comfort Sandal might be my favourite so far.",2026-06-05,False
+REV00770,ORD00141,C1014,P007,1,Bought these two months ago and the sole has already worn thin.,2025-10-23,True
+REV00771,ORD00350,C1271,P001,5,"These Everyday Sneakers are incredibly comfortable, I can wear them all day without any pain.",2025-09-29,True
+REV00772,ORD00101,C1369,P007,4,"Excellent build quality, the stitching and finish look premium.",2026-06-25,True
+REV00773,ORD00160,C1315,P012,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-11-19,True
+REV00774,ORD00303,C1328,P005,2,Stitching came undone within two weeks of regular use.,2025-10-02,True
+REV00775,ORD00966,C1067,P012,1,Wish there were more colour options available for the Urban Hi-Top.,2026-06-20,True
+REV00776,ORD00892,C1445,P007,2,"Poor durability, the stitching on the sides is already coming apart.",2026-08-26,True
+REV00777,ORD00628,C1290,P010,1,Sizing is inconsistent - my other Neeman's shoes fit fine but these Flex Trainer don't.,2026-01-24,True
+REV00778,ORD00880,C1491,P010,1,"Late delivery ruined the surprise, had ordered these for an event. Not built to last, the outer material tore within weeks.",2025-10-18,True
+REV00779,ORD00075,C1196,P008,1,"Delivery partner mishandled the package, box arrived damaged.",2025-10-19,True
+REV00780,ORD00517,C1205,P010,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-05-19,True
+REV00781,ORD01177,C1295,P005,4,"These Wool Runner are incredibly comfortable, I can wear them all day without any pain.",2026-07-02,True
+REV00782,ORD00483,C1244,P005,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-12-03,True
+REV00783,ORD00423,C1119,P006,3,"Average experience. Comfortable but the Forest Green colour looked a bit different than the photos. It's a fine pair of Active Knit, does what it says, no major complaints.",2026-08-24,True
+REV00784,ORD01008,C1399,P005,5,"Very easy to wear, true to size, and the Heather Grey colour looks amazing in person.",2026-07-04,False
+REV00785,ORD01113,C1393,P002,1,"Size guide is misleading, ordered my usual size but the Runner Pro were too tight.",2026-06-04,False
+REV00786,ORD01019,C1062,P003,4,Great quality for the price. My Daily Walk still look brand new after months of use.,2025-10-07,True
+REV00787,ORD00920,C1088,P010,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-10-07,True
+REV00788,ORD00165,C1119,P010,4,"Excellent build quality, the stitching and finish look premium.",2025-12-29,False
+REV00789,ORD01085,C1195,P006,2,The fabric on the Active Knit pilled and looked worn out very quickly.,2026-07-14,True
+REV00790,ORD01335,C1384,P012,3,Average experience. Comfortable but the Black/White colour looked a bit different than the photos.,2026-04-10,True
+REV00791,ORD01358,C1356,P007,4,Perfect for daily walks. The cushioning on the Comfort Sandal is fantastic.,2026-04-09,True
+REV00792,ORD00289,C1444,P007,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-02-17,False
+REV00793,ORD01009,C1366,P012,2,"The Urban Hi-Top arrived in a damaged box, packaging could be much better.",2026-08-01,True
+REV00794,ORD00719,C1434,P005,5,Breathable material and lightweight - ideal for long office days.,2026-03-10,True
+REV00795,ORD01379,C1130,P004,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-11-17,True
+REV00796,ORD00295,C1477,P006,3,"Good for casual use, not something I'd wear for long walks though.",2026-04-27,True
+REV00797,ORD01196,C1125,P011,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-03-14,False
+REV00798,ORD00378,C1224,P011,5,Fits true to size and the arch support is great for standing all day.,2026-06-24,False
+REV00799,ORD01223,C1099,P010,5,Super lightweight and stylish. Get compliments every time I wear my Flex Trainer.,2025-12-20,False
+REV00800,ORD00679,C1298,P012,2,Had to size up two sizes to get a comfortable fit on the Urban Hi-Top.,2026-08-22,True
+REV00801,ORD00328,C1148,P004,5,"My third pair from Neeman's, and the City Slip-On might be my favourite so far.",2026-06-05,True
+REV00802,ORD00882,C1491,P009,5,"These Classic Loafer are incredibly comfortable, I can wear them all day without any pain.",2026-05-20,True
+REV00803,ORD00725,C1316,P005,1,Sole started wearing out after only a month of regular use. The Heather Grey colour started fading after just a few washes.,2026-04-22,False
+REV00804,ORD01124,C1424,P001,4,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-10,True
+REV00805,ORD00461,C1162,P003,2,"The Daily Walk feel stiff and uncomfortable, especially around the heel area. The Daily Walk fit narrow, my toes felt cramped within an hour of wearing them.",2026-01-08,True
+REV00806,ORD00737,C1243,P010,1,"The design shows the logo too prominently, not a fan of the branding placement.",2025-11-05,True
+REV00807,ORD01003,C1217,P003,5,Great quality for the price. My Daily Walk still look brand new after months of use.,2026-08-24,True
+REV00808,ORD00939,C1499,P010,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-05-11,True
+REV00809,ORD00362,C1174,P006,5,Fits true to size and the arch support is great for standing all day. Loved the design and the fit was spot on. Would definitely recommend the Active Knit.,2025-10-11,True
+REV00810,ORD00575,C1038,P010,1,"The insole is too thin, no arch support, my feet ache by evening.",2025-10-12,True
+REV00811,ORD00464,C1155,P004,3,"Good for casual use, not something I'd wear for long walks though. Fit is okay, needed a few days to break in before it felt normal.",2026-05-11,True
+REV00812,ORD00195,C1470,P005,1,"The Wool Runner run really small, had to return and get a bigger size.",2025-11-01,True
+REV00813,ORD00167,C1403,P003,3,"Good for casual use, not something I'd wear for long walks though.",2026-06-12,True
+REV00814,ORD01081,C1331,P001,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. Comfort is fine but I'm still deciding if I like the overall look.",2026-02-08,False
+REV00815,ORD00948,C1374,P008,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall. Very easy to wear, true to size, and the Olive Green colour looks amazing in person.",2026-01-16,True
+REV00816,ORD00095,C1342,P006,5,Good value for money. The Active Knit feel premium and well made.,2026-01-11,True
+REV00817,ORD00391,C1118,P012,5,Fits true to size and the arch support is great for standing all day. I was skeptical but the Urban Hi-Top exceeded my expectations. Extremely comfortable fit.,2026-01-25,True
+REV00818,ORD00131,C1296,P007,3,"Good for casual use, not something I'd wear for long walks though.",2026-03-14,True
+REV00819,ORD01135,C1009,P008,2,"Size guide is misleading, ordered my usual size but the Trail Blazer were too tight.",2025-10-28,True
+REV00820,ORD00669,C1442,P008,1,"Size guide is misleading, ordered my usual size but the Trail Blazer were too tight.",2026-01-08,False
+REV00821,ORD01233,C1169,P012,2,"The Urban Hi-Top run really small, had to return and get a bigger size.",2026-01-17,True
+REV00822,ORD00387,C1043,P011,3,"Good for casual use, not something I'd wear for long walks though. Fit is okay, needed a few days to break in before it felt normal.",2026-07-13,True
+REV00823,ORD01110,C1410,P009,2,Sizing is inconsistent - my other Neeman's shoes fit fine but these Classic Loafer don't.,2025-10-15,True
+REV00824,ORD01225,C1299,P012,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-07-26,False
+REV00825,ORD00895,C1200,P010,4,"The Flex Trainer are so soft and comfortable, feels like walking on clouds.",2026-08-22,True
+REV00826,ORD00956,C1171,P012,5,"Excellent build quality, the stitching and finish look premium.",2025-10-23,True
+REV00827,ORD01337,C1023,P011,4,Loved the design and the fit was spot on. Would definitely recommend the Cloud Step.,2025-12-13,True
+REV00828,ORD00533,C1166,P011,2,"Not comfortable at all for daily wear, the sole feels too hard. Order took much longer than the estimated delivery window.",2026-07-18,True
+REV00829,ORD00125,C1474,P006,1,"Not built to last, the outer material tore within weeks.",2026-07-19,True
+REV00830,ORD00779,C1011,P010,5,"Very easy to wear, true to size, and the White colour looks amazing in person.",2025-12-01,False
+REV00831,ORD00982,C1496,P012,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine. Comfort is fine but I'm still deciding if I like the overall look.",2026-04-25,True
+REV00832,ORD00958,C1027,P004,3,"It's a fine pair of City Slip-On, does what it says, no major complaints.",2026-02-23,True
+REV00833,ORD01267,C1265,P007,3,"Reasonable quality, delivery took a bit longer than expected but shoes are fine.",2026-01-30,True
+REV00834,ORD01382,C1309,P012,4,"These Urban Hi-Top are incredibly comfortable, I can wear them all day without any pain. Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2026-03-15,True
+REV00835,ORD00313,C1305,P009,4,Great quality for the price. My Classic Loafer still look brand new after months of use.,2026-05-03,True
+REV00836,ORD00713,C1377,P002,5,Good value for money. The Runner Pro feel premium and well made.,2025-10-30,True
+REV00837,ORD00383,C1085,P009,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-07-26,True
+REV00838,ORD00163,C1327,P005,3,Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.,2025-12-12,True
+REV00839,ORD00418,C1172,P007,4,Super lightweight and stylish. Get compliments every time I wear my Comfort Sandal.,2025-12-21,False
+REV00840,ORD00463,C1183,P010,1,Order took much longer than the estimated delivery window.,2025-10-30,True
+REV00841,ORD00246,C1398,P003,4,Loved the design and the fit was spot on. Would definitely recommend the Daily Walk.,2026-07-12,True
+REV00842,ORD00026,C1010,P009,3,Average experience. Comfortable but the Espresso Brown colour looked a bit different than the photos.,2026-04-28,True
+REV00843,ORD00242,C1338,P003,2,"The Daily Walk fit narrow, my toes felt cramped within an hour of wearing them.",2026-06-30,True
+REV00844,ORD01197,C1311,P011,2,The fabric on the Cloud Step pilled and looked worn out very quickly.,2026-02-16,True
+REV00845,ORD00157,C1209,P009,5,I was skeptical but the Classic Loafer exceeded my expectations. Extremely comfortable fit.,2026-03-06,True
+REV00846,ORD00450,C1468,P012,4,"Excellent build quality, the stitching and finish look premium. Very easy to wear, true to size, and the Black/White colour looks amazing in person.",2026-08-18,True
+REV00847,ORD00555,C1192,P012,4,"The Urban Hi-Top are so soft and comfortable, feels like walking on clouds.",2025-09-28,True
+REV00848,ORD01122,C1242,P009,1,"The insole is too thin, no arch support, my feet ache by evening.",2025-12-29,True
+REV00849,ORD01214,C1014,P003,5,"Very easy to wear, true to size, and the Stone Beige colour looks amazing in person.",2026-03-01,False
+REV00850,ORD00590,C1354,P006,2,The material quality of the Active Knit feels cheap compared to the price.,2026-06-04,True
+REV00851,ORD01281,C1248,P004,2,"Delivery was delayed by over a week, no proper updates on tracking.",2026-04-11,True
+REV00852,ORD00047,C1424,P004,5,Super lightweight and stylish. Get compliments every time I wear my City Slip-On. Fits true to size and the arch support is great for standing all day.,2026-08-24,True
+REV00853,ORD00897,C1210,P009,5,Fits true to size and the arch support is great for standing all day. Super lightweight and stylish. Get compliments every time I wear my Classic Loafer.,2026-03-08,True
+REV00854,ORD00957,C1389,P004,2,"Delivery partner mishandled the package, box arrived damaged.",2026-06-05,True
+REV00855,ORD00137,C1135,P012,1,"Build quality is disappointing, doesn't feel like a premium product.",2025-12-02,True
+REV00856,ORD00912,C1389,P011,4,Great quality for the price. My Cloud Step still look brand new after months of use.,2026-08-06,False
+REV00857,ORD00940,C1030,P005,5,I was skeptical but the Wool Runner exceeded my expectations. Extremely comfortable fit.,2025-12-16,True
+REV00858,ORD01298,C1388,P004,5,Great quality for the price. My City Slip-On still look brand new after months of use.,2026-05-18,True
+REV00859,ORD00751,C1327,P004,2,"Late delivery ruined the surprise, had ordered these for an event.",2026-07-21,True
+REV00860,ORD01390,C1073,P001,3,Comfort is fine but I'm still deciding if I like the overall look.,2026-08-21,True
+REV00861,ORD00060,C1266,P010,4,"Excellent build quality, the stitching and finish look premium.",2025-12-16,True
+REV00862,ORD00263,C1295,P006,4,Perfect for daily walks. The cushioning on the Active Knit is fantastic. Super lightweight and stylish. Get compliments every time I wear my Active Knit.,2026-06-25,False
+REV00863,ORD00171,C1460,P001,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-05,True
+REV00864,ORD01006,C1049,P005,5,Great quality for the price. My Wool Runner still look brand new after months of use.,2025-10-01,True
+REV00865,ORD00359,C1039,P006,5,Great quality for the price. My Active Knit still look brand new after months of use.,2025-09-10,True
+REV00866,ORD01154,C1368,P005,3,"Fit is okay, needed a few days to break in before it felt normal. Average experience. Comfortable but the Heather Grey colour looked a bit different than the photos.",2025-10-10,True
+REV00867,ORD00180,C1336,P005,1,Bought these two months ago and the sole has already worn thin.,2026-03-23,True
+REV00868,ORD01000,C1159,P008,3,"It's a fine pair of Trail Blazer, does what it says, no major complaints.",2025-10-30,True
+REV00869,ORD01219,C1026,P008,5,"Stylish look, comfortable sole, and delivery was quick too. Very happy overall.",2025-10-15,True
+REV00870,ORD00612,C1453,P004,4,Good value for money. The City Slip-On feel premium and well made.,2026-08-09,True
+REV00871,ORD00828,C1099,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds.",2026-05-14,True
+REV00872,ORD00519,C1439,P005,2,"Poor durability, the stitching on the sides is already coming apart.",2026-03-19,True
+REV00873,ORD00153,C1038,P003,1,"The Daily Walk feel stiff and uncomfortable, especially around the heel area. The Daily Walk run really small, had to return and get a bigger size.",2026-02-01,True
+REV00874,ORD01343,C1014,P004,4,Perfect for daily walks. The cushioning on the City Slip-On is fantastic.,2026-01-11,True
+REV00875,ORD00096,C1249,P007,3,"The Comfort Sandal are okay, nothing special but does the job.",2026-03-15,True
+REV00876,ORD01308,C1225,P008,5,"The Trail Blazer are so soft and comfortable, feels like walking on clouds. I was skeptical but the Trail Blazer exceeded my expectations. Extremely comfortable fit.",2025-10-13,True
+REV00877,ORD01229,C1035,P009,4,Breathable material and lightweight - ideal for long office days.,2025-10-15,True
+REV00878,ORD00366,C1184,P007,3,"Good for casual use, not something I'd wear for long walks though. It's a fine pair of Comfort Sandal, does what it says, no major complaints.",2026-08-23,True
+REV00879,ORD00985,C1468,P002,1,"The Runner Pro run really small, had to return and get a bigger size. Had to size up two sizes to get a comfortable fit on the Runner Pro.",2025-09-15,True
+REV00880,ORD00800,C1211,P004,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-09-22,True
+REV00881,ORD00588,C1299,P001,3,"Decent shoes for the price, though I expected slightly better cushioning.",2026-06-11,True
+REV00882,ORD01042,C1034,P012,3,"It's a fine pair of Urban Hi-Top, does what it says, no major complaints.",2025-11-02,True
+REV00883,ORD00862,C1166,P012,5,"Perfect for daily walks. The cushioning on the Urban Hi-Top is fantastic. Bought as a gift, and the packaging plus quality really impressed my friend.",2026-07-02,True
+REV00884,ORD00011,C1028,P007,3,"Fit is okay, needed a few days to break in before it felt normal.",2026-02-04,False
+REV00885,ORD00863,C1416,P009,5,"Bought as a gift, and the packaging plus quality really impressed my friend.",2025-11-10,True
+REV00886,ORD01312,C1002,P006,4,Perfect for daily walks. The cushioning on the Active Knit is fantastic.,2025-11-12,True
+REV00887,ORD00653,C1338,P003,4,"My third pair from Neeman's, and the Daily Walk might be my favourite so far. Bought as a gift, and the packaging plus quality really impressed my friend.",2026-05-22,True
+REV00888,ORD00683,C1492,P010,3,Average experience. Comfortable but the White colour looked a bit different than the photos.,2026-02-02,False
+REV00889,ORD00978,C1346,P005,4,I was skeptical but the Wool Runner exceeded my expectations. Extremely comfortable fit.,2025-12-09,True
+REV00890,ORD00292,C1478,P012,5,"Very easy to wear, true to size, and the Black/White colour looks amazing in person.",2026-05-28,True
+REV00891,ORD01077,C1232,P002,5,"Excellent build quality, the stitching and finish look premium. Good value for money. The Runner Pro feel premium and well made.",2026-03-30,True
+REV00892,ORD00839,C1190,P005,2,"Build quality is disappointing, doesn't feel like a premium product. Poor durability, the stitching on the sides is already coming apart.",2026-08-22,True
+REV00893,ORD00268,C1123,P007,5,"Excellent build quality, the stitching and finish look premium.",2025-11-21,True
+REV00894,ORD00146,C1154,P005,2,Sole started wearing out after only a month of regular use. The Heather Grey colour looked very different from the pictures on the site.,2026-07-23,True
+REV00895,ORD01136,C1440,P006,5,Super lightweight and stylish. Get compliments every time I wear my Active Knit.,2026-02-02,True
+REV00896,ORD00700,C1457,P003,3,"It's a fine pair of Daily Walk, does what it says, no major complaints. Decent shoes for the price, though I expected slightly better cushioning.",2026-05-04,True
+REV00897,ORD00903,C1030,P006,5,Good value for money. The Active Knit feel premium and well made.,2026-01-27,True
+REV00898,ORD00832,C1315,P001,5,Super lightweight and stylish. Get compliments every time I wear my Everyday Sneakers.,2025-11-05,True
+REV00899,ORD00015,C1024,P010,4,Breathable material and lightweight - ideal for long office days.,2026-04-12,True
+REV00900,ORD00899,C1062,P004,2,"Delivery was delayed by over a week, no proper updates on tracking.",2025-09-24,False
